@@ -667,7 +667,19 @@
           </UnloadedRoom>
           <UnloadedRoom>
             <Number>6</Number>
-            <Description xml:space="preserve">Big Intestine Dunes</Description>
+            <Description xml:space="preserve">Large Intestine Dunes</Description>
+          </UnloadedRoom>
+          <UnloadedRoom>
+            <Number>7</Number>
+            <Description xml:space="preserve">Large Intestine Rocks</Description>
+          </UnloadedRoom>
+          <UnloadedRoom>
+            <Number>8</Number>
+            <Description xml:space="preserve">Large Intestine Exit</Description>
+          </UnloadedRoom>
+          <UnloadedRoom>
+            <Number>9</Number>
+            <Description>Rectum/Anus</Description>
           </UnloadedRoom>
         </UnloadedRooms>
       </UnloadedRoomFolder>
@@ -6104,12 +6116,67 @@ stop
                   </ViewFrame>
                 </Frames>
               </Loop>
+              <Loop>
+                <ID>2</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>0</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>3</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames />
+              </Loop>
             </Loops>
           </View>
           <View>
             <ID>6</ID>
             <Name>vLaLaine</Name>
-            <Loops />
+            <Loops>
+              <Loop>
+                <ID>0</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames />
+              </Loop>
+              <Loop>
+                <ID>1</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>0</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>2</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>0</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>3</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames />
+              </Loop>
+            </Loops>
           </View>
         </Views>
       </ViewFolder>
