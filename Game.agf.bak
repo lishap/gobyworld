@@ -1734,6 +1734,366 @@
                 <Enabled>True</Enabled>
                 <Visible>True</Visible>
               </GUIButton>
+              <GUIButton>
+                <OnClick>Button6_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopCenter</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>14</Width>
+                <Left>121</Left>
+                <Top>80</Top>
+                <ZOrder>5</ZOrder>
+                <ID>5</ID>
+                <Name>Button6</Name>
+                <Clickable>True</Clickable>
+                <Enabled>True</Enabled>
+                <Visible>True</Visible>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopCenter</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>13</Height>
+                <Locked>False</Locked>
+                <Width>14</Width>
+                <Left>137</Left>
+                <Top>80</Top>
+                <ZOrder>6</ZOrder>
+                <ID>6</ID>
+                <Name>Button7</Name>
+                <Clickable>True</Clickable>
+                <Enabled>True</Enabled>
+                <Visible>True</Visible>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopCenter</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>13</Height>
+                <Locked>False</Locked>
+                <Width>13</Width>
+                <Left>153</Left>
+                <Top>80</Top>
+                <ZOrder>7</ZOrder>
+                <ID>7</ID>
+                <Name>Button8</Name>
+                <Clickable>True</Clickable>
+                <Enabled>True</Enabled>
+                <Visible>True</Visible>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopCenter</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>15</Width>
+                <Left>169</Left>
+                <Top>80</Top>
+                <ZOrder>8</ZOrder>
+                <ID>8</ID>
+                <Name>Button9</Name>
+                <Clickable>True</Clickable>
+                <Enabled>True</Enabled>
+                <Visible>True</Visible>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopCenter</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>13</Width>
+                <Left>186</Left>
+                <Top>80</Top>
+                <ZOrder>9</ZOrder>
+                <ID>9</ID>
+                <Name>Button10</Name>
+                <Clickable>True</Clickable>
+                <Enabled>True</Enabled>
+                <Visible>True</Visible>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopCenter</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>13</Height>
+                <Locked>False</Locked>
+                <Width>14</Width>
+                <Left>121</Left>
+                <Top>96</Top>
+                <ZOrder>10</ZOrder>
+                <ID>10</ID>
+                <Name>Button11</Name>
+                <Clickable>True</Clickable>
+                <Enabled>True</Enabled>
+                <Visible>True</Visible>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopCenter</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>14</Width>
+                <Left>137</Left>
+                <Top>96</Top>
+                <ZOrder>11</ZOrder>
+                <ID>11</ID>
+                <Name>Button12</Name>
+                <Clickable>True</Clickable>
+                <Enabled>True</Enabled>
+                <Visible>True</Visible>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopCenter</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>14</Width>
+                <Left>153</Left>
+                <Top>96</Top>
+                <ZOrder>12</ZOrder>
+                <ID>12</ID>
+                <Name>Button13</Name>
+                <Clickable>True</Clickable>
+                <Enabled>True</Enabled>
+                <Visible>True</Visible>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopCenter</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>14</Width>
+                <Left>170</Left>
+                <Top>96</Top>
+                <ZOrder>13</ZOrder>
+                <ID>13</ID>
+                <Name>Button14</Name>
+                <Clickable>True</Clickable>
+                <Enabled>True</Enabled>
+                <Visible>True</Visible>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopCenter</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>14</Width>
+                <Left>184</Left>
+                <Top>96</Top>
+                <ZOrder>14</ZOrder>
+                <ID>14</ID>
+                <Name>Button15</Name>
+                <Clickable>True</Clickable>
+                <Enabled>True</Enabled>
+                <Visible>True</Visible>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopCenter</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>11</Width>
+                <Left>122</Left>
+                <Top>112</Top>
+                <ZOrder>15</ZOrder>
+                <ID>15</ID>
+                <Name>Button16</Name>
+                <Clickable>True</Clickable>
+                <Enabled>True</Enabled>
+                <Visible>True</Visible>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopCenter</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>14</Height>
+                <Locked>False</Locked>
+                <Width>13</Width>
+                <Left>137</Left>
+                <Top>111</Top>
+                <ZOrder>16</ZOrder>
+                <ID>16</ID>
+                <Name>Button17</Name>
+                <Clickable>True</Clickable>
+                <Enabled>True</Enabled>
+                <Visible>True</Visible>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopCenter</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>13</Height>
+                <Locked>False</Locked>
+                <Width>12</Width>
+                <Left>155</Left>
+                <Top>112</Top>
+                <ZOrder>17</ZOrder>
+                <ID>17</ID>
+                <Name>Button18</Name>
+                <Clickable>True</Clickable>
+                <Enabled>True</Enabled>
+                <Visible>True</Visible>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopCenter</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>12</Height>
+                <Locked>False</Locked>
+                <Width>13</Width>
+                <Left>169</Left>
+                <Top>112</Top>
+                <ZOrder>18</ZOrder>
+                <ID>18</ID>
+                <Name>Button19</Name>
+                <Clickable>True</Clickable>
+                <Enabled>True</Enabled>
+                <Visible>True</Visible>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopCenter</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>13</Height>
+                <Locked>False</Locked>
+                <Width>13</Width>
+                <Left>186</Left>
+                <Top>113</Top>
+                <ZOrder>19</ZOrder>
+                <ID>19</ID>
+                <Name>Button20</Name>
+                <Clickable>True</Clickable>
+                <Enabled>True</Enabled>
+                <Visible>True</Visible>
+              </GUIButton>
             </Controls>
           </GUIMain>
           <GUIMain>
