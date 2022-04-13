@@ -2419,7 +2419,7 @@
           <Character>
             <ID>1</ID>
             <ScriptName>cClown</ScriptName>
-            <RealName xml:space="preserve">New character</RealName>
+            <RealName>Clown</RealName>
             <NormalView>2</NormalView>
             <SpeechView>2</SpeechView>
             <IdleView>0</IdleView>
@@ -2545,9 +2545,9 @@
             <IdleView>0</IdleView>
             <ThinkingView>0</ThinkingView>
             <BlinkingView>0</BlinkingView>
-            <StartingRoom>-1</StartingRoom>
-            <StartX>160</StartX>
-            <StartY>120</StartY>
+            <StartingRoom>3</StartingRoom>
+            <StartX>113</StartX>
+            <StartY>228</StartY>
             <UniformMovementSpeed>True</UniformMovementSpeed>
             <MovementSpeed>3</MovementSpeed>
             <MovementSpeedX>0</MovementSpeedX>
@@ -2603,13 +2603,14 @@ GOBY: I have two years left.
 CLOWN: That's a bit arbitrary. Two years until what?
 GOBY: Gum remains in the stomach for seven years. 
 CLOWN: That's a myth. You can just leave.
-GOBY: Srsly -_-
+GOBY: Srsly...
 option-off 2
 return
 
 @3
 CLOWN: Power to you!
-stop
+option-off 3
+goto-dialog dLeave
 ]]></Script>
             <DialogOptions>
               <DialogOption>
@@ -2627,6 +2628,59 @@ stop
               <DialogOption>
                 <ID>3</ID>
                 <Text xml:space="preserve">I'm leaving.</Text>
+                <Show>True</Show>
+                <Say>True</Say>
+              </DialogOption>
+            </DialogOptions>
+          </Dialog>
+          <Dialog>
+            <ID>1</ID>
+            <Name>dLeave</Name>
+            <ShowTextParser>False</ShowTextParser>
+            <Script><![CDATA[// Dialog script file
+@S  // Dialog startup entry point
+return
+@1
+CLOWN: The only way is down. You can leave through the small intestine on my left. That will take you out the large intestine, and your freedom awaits you out the rectum and anus. 
+return
+
+@2
+CLOWN: Probably. You'll need some swim gear. I have extra, but I'm not giving it away for free. 
+GOBY: I also want to bring my snowglobes!
+CLOWN: Okay, kid. 
+GOBY: And a nice outfit for the outside world.. and food for Mallory. 
+CLOWN: You're bringing your dog?
+return
+@3
+CLOWN: If you help me solve this Wordle. I'm stuck. Gather your things and then come back to talk. 
+stop
+
+@4
+  gWordle.Visible = true;
+stop
+]]></Script>
+            <DialogOptions>
+              <DialogOption>
+                <ID>1</ID>
+                <Text xml:space="preserve">Wait, how do I leave?</Text>
+                <Show>True</Show>
+                <Say>True</Say>
+              </DialogOption>
+              <DialogOption>
+                <ID>2</ID>
+                <Text xml:space="preserve">Should I bring stuff with me?</Text>
+                <Show>True</Show>
+                <Say>True</Say>
+              </DialogOption>
+              <DialogOption>
+                <ID>3</ID>
+                <Text xml:space="preserve">Can I please have your goggles and flippers?</Text>
+                <Show>True</Show>
+                <Say>True</Say>
+              </DialogOption>
+              <DialogOption>
+                <ID>4</ID>
+                <Text xml:space="preserve">I've gathered all my things, let me at the Wordle!</Text>
                 <Show>True</Show>
                 <Say>True</Say>
               </DialogOption>
@@ -2731,30 +2785,6 @@ stop
         <AnimateOnlyOnHotspots>False</AnimateOnlyOnHotspots>
         <AnimateOnlyWhenMoving>False</AnimateOnlyWhenMoving>
         <Name>Wait</Name>
-      </MouseCursor>
-      <MouseCursor>
-        <ID>8</ID>
-        <HotspotX>0</HotspotX>
-        <HotspotY>0</HotspotY>
-        <StandardMode>False</StandardMode>
-        <Image>2054</Image>
-        <View>0</View>
-        <Animate>False</Animate>
-        <AnimateOnlyOnHotspots>False</AnimateOnlyOnHotspots>
-        <AnimateOnlyWhenMoving>False</AnimateOnlyWhenMoving>
-        <Name>Usermode1</Name>
-      </MouseCursor>
-      <MouseCursor>
-        <ID>9</ID>
-        <HotspotX>0</HotspotX>
-        <HotspotY>0</HotspotY>
-        <StandardMode>False</StandardMode>
-        <Image>2054</Image>
-        <View>0</View>
-        <Animate>False</Animate>
-        <AnimateOnlyOnHotspots>False</AnimateOnlyOnHotspots>
-        <AnimateOnlyWhenMoving>False</AnimateOnlyWhenMoving>
-        <Name>Usermode2</Name>
       </MouseCursor>
     </Cursors>
     <Fonts>
@@ -3051,7 +3081,13 @@ stop
       <PaletteEntry Index="255" Type="Background" Red="120" Green="120" Blue="120" />
     </Palette>
     <GlobalVariables>
-      <Variables />
+      <Variables>
+        <GlobalVariable>
+          <Name>WordleSolved</Name>
+          <Type>bool</Type>
+          <DefaultValue>false</DefaultValue>
+        </GlobalVariable>
+      </Variables>
     </GlobalVariables>
     <Sprites>
       <SpriteFolder Name="Main">
@@ -5574,9 +5610,9 @@ stop
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="61" Width="50" Height="80" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="62" Width="50" Height="80" ColorDepth="16" Resolution="Real" AlphaChannel="False">
             <Source>
-              <FileName>Sprites/LegoGirl/LaLaine.png</FileName>
+              <FileName>Sprites/LaLaine/LaLaineHead.png</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
               <ImportHeight>80</ImportHeight>
@@ -5585,11 +5621,41 @@ stop
               <Frame>0</Frame>
               <RemapToGamePalette>False</RemapToGamePalette>
               <RemapToRoomPalette>False</RemapToRoomPalette>
-              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportMethod>TopLeft</ImportMethod>
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="62" Width="50" Height="80" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="61" Width="50" Height="80" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/LaLaine/LaLaineHeadTorso.png</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>80</ImportHeight>
+              <ImportWidth>50</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="63" Width="50" Height="80" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/LaLaine/LaLaineHeadTorsoArms.png</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>80</ImportHeight>
+              <ImportWidth>50</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="64" Width="50" Height="80" ColorDepth="16" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/LaLaine/LaLaine.png</FileName>
               <OffsetX>0</OffsetX>
@@ -5600,7 +5666,127 @@ stop
               <Frame>0</Frame>
               <RemapToGamePalette>False</RemapToGamePalette>
               <RemapToRoomPalette>False</RemapToRoomPalette>
-              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="65" Width="50" Height="80" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Objects/LaLaineLegs.png</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>80</ImportHeight>
+              <ImportWidth>50</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="66" Width="320" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Objects/Trunk.png</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="67" Width="320" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Objects/BileWharf.png</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>PaletteIndex0</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="68" Width="50" Height="80" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Objects/LaLaineArms.png</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>80</ImportHeight>
+              <ImportWidth>50</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="69" Width="320" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Objects/TrunkKey.png</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="70" Width="320" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Objects/DogFood.png</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="71" Width="320" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Objects/Suit.png</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="72" Width="320" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Objects/Snowglobes.png</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
@@ -5810,36 +5996,7 @@ stop
               <Loop>
                 <ID>0</ID>
                 <RunNextLoop>False</RunNextLoop>
-                <Frames>
-                  <ViewFrame>
-                    <ID>0</ID>
-                    <Image>15</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>1</ID>
-                    <Image>16</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>2</ID>
-                    <Image>17</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>3</ID>
-                    <Image>18</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                </Frames>
+                <Frames />
               </Loop>
               <Loop>
                 <ID>1</ID>
@@ -6143,7 +6300,15 @@ stop
               <Loop>
                 <ID>0</ID>
                 <RunNextLoop>False</RunNextLoop>
-                <Frames />
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>62</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
               </Loop>
               <Loop>
                 <ID>1</ID>
@@ -6151,7 +6316,7 @@ stop
                 <Frames>
                   <ViewFrame>
                     <ID>0</ID>
-                    <Image>0</Image>
+                    <Image>61</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
@@ -6164,7 +6329,7 @@ stop
                 <Frames>
                   <ViewFrame>
                     <ID>0</ID>
-                    <Image>0</Image>
+                    <Image>63</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
@@ -6174,7 +6339,15 @@ stop
               <Loop>
                 <ID>3</ID>
                 <RunNextLoop>False</RunNextLoop>
-                <Frames />
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>64</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
               </Loop>
             </Loops>
           </View>
@@ -6186,6 +6359,30 @@ stop
       <ScriptFolder Name="Main">
         <SubFolders />
         <ScriptAndHeaders>
+          <ScriptAndHeader>
+            <ScriptAndHeader_Header>
+              <Script>
+                <FileName>underwater.ash</FileName>
+                <Name>Underwater</Name>
+                <Description>Underwater effect</Description>
+                <Author>Steve McCrea</Author>
+                <Version>1.1</Version>
+                <Key>1964682078</Key>
+                <IsHeader>True</IsHeader>
+              </Script>
+            </ScriptAndHeader_Header>
+            <ScriptAndHeader_Script>
+              <Script>
+                <FileName>underwater.asc</FileName>
+                <Name>Underwater</Name>
+                <Description>Underwater effect</Description>
+                <Author>Steve McCrea</Author>
+                <Version>1.1</Version>
+                <Key>1964682078</Key>
+                <IsHeader>False</IsHeader>
+              </Script>
+            </ScriptAndHeader_Script>
+          </ScriptAndHeader>
           <ScriptAndHeader>
             <ScriptAndHeader_Header>
               <Script>

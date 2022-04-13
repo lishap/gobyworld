@@ -27,14 +27,23 @@
         </Items>
       </Edges>
       <Characters>
-        <Visible>False</Visible>
+        <Visible>True</Visible>
         <Locked>False</Locked>
         <Items />
       </Characters>
       <Objects>
-        <Visible>False</Visible>
+        <Visible>True</Visible>
         <Locked>False</Locked>
-        <Items />
+        <Items>
+          <Item ID="0000">
+            <Visible>True</Visible>
+            <Locked>False</Locked>
+          </Item>
+          <Item ID="0001">
+            <Visible>True</Visible>
+            <Locked>False</Locked>
+          </Item>
+        </Items>
       </Objects>
       <Hotspots>
         <Visible>False</Visible>
@@ -243,7 +252,7 @@
         </Items>
       </Hotspots>
       <WalkableAreas>
-        <Visible>True</Visible>
+        <Visible>False</Visible>
         <Locked>False</Locked>
         <Items>
           <Item ID="0000">
@@ -313,7 +322,7 @@
         </Items>
       </WalkableAreas>
       <WalkBehinds>
-        <Visible>False</Visible>
+        <Visible>True</Visible>
         <Locked>False</Locked>
         <Items>
           <Item ID="0000">
