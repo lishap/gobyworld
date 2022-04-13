@@ -729,7 +729,7 @@
                 <TextAlignment>Left</TextAlignment>
                 <TextColor>19248</TextColor>
                 <Font>0</Font>
-                <Text xml:space="preserve">Score: @SCORE@</Text>
+                <Text />
                 <Height>10</Height>
                 <Locked>True</Locked>
                 <Width>70</Width>
@@ -806,30 +806,6 @@
                 <Visible>True</Visible>
               </GUIButton>
               <GUIButton>
-                <OnClick>btnIconInv_Click</OnClick>
-                <ClickAction>RunScript</ClickAction>
-                <NewModeNumber>0</NewModeNumber>
-                <ClipImage>False</ClipImage>
-                <TextAlignment>TopCenter</TextAlignment>
-                <TextColor>16</TextColor>
-                <Font>0</Font>
-                <PushedImage>2122</PushedImage>
-                <MouseoverImage>2121</MouseoverImage>
-                <Image>2120</Image>
-                <Text />
-                <Height>27</Height>
-                <Locked>False</Locked>
-                <Width>32</Width>
-                <Left>33</Left>
-                <Top>1</Top>
-                <ZOrder>1</ZOrder>
-                <ID>1</ID>
-                <Name>btnIconInv</Name>
-                <Clickable>True</Clickable>
-                <Enabled>True</Enabled>
-                <Visible>True</Visible>
-              </GUIButton>
-              <GUIButton>
                 <OnClick>btnIconExit_Click</OnClick>
                 <ClickAction>RunScript</ClickAction>
                 <NewModeNumber>0</NewModeNumber>
@@ -846,8 +822,8 @@
                 <Width>32</Width>
                 <Left>289</Left>
                 <Top>1</Top>
-                <ZOrder>2</ZOrder>
-                <ID>2</ID>
+                <ZOrder>1</ZOrder>
+                <ID>1</ID>
                 <Name>btnIconExit</Name>
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
@@ -870,171 +846,29 @@
                 <Width>32</Width>
                 <Left>257</Left>
                 <Top>1</Top>
-                <ZOrder>3</ZOrder>
-                <ID>3</ID>
+                <ZOrder>2</ZOrder>
+                <ID>2</ID>
                 <Name>btnIconAbout</Name>
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Visible>True</Visible>
               </GUIButton>
-            </Controls>
-          </GUIMain>
-          <GUIMain>
-            <NormalGUI>
-              <OnClick />
-              <Height>133</Height>
-              <Width>223</Width>
-              <Left>50</Left>
-              <Top>35</Top>
-              <Clickable>True</Clickable>
-              <Visible>False</Visible>
-              <PopupStyle>PopupModal</PopupStyle>
-              <PopupYPos>0</PopupYPos>
-              <ZOrder>2</ZOrder>
-              <BorderColor>0</BorderColor>
-              <Transparency>0</Transparency>
-              <BackgroundColor>0</BackgroundColor>
-              <BackgroundImage>2169</BackgroundImage>
-              <ID>2</ID>
-              <Name>gInventory</Name>
-            </NormalGUI>
-            <Controls>
               <GUIInventory>
-                <ItemWidth>21</ItemWidth>
-                <ItemHeight>21</ItemHeight>
+                <ItemWidth>30</ItemWidth>
+                <ItemHeight>20</ItemHeight>
                 <CharacterID>-1</CharacterID>
-                <Height>87</Height>
+                <Height>26</Height>
                 <Locked>False</Locked>
-                <Width>174</Width>
-                <Left>8</Left>
-                <Top>8</Top>
-                <ZOrder>0</ZOrder>
-                <ID>0</ID>
-                <Name>invCustom</Name>
+                <Width>221</Width>
+                <Left>34</Left>
+                <Top>1</Top>
+                <ZOrder>3</ZOrder>
+                <ID>3</ID>
+                <Name>InventoryWindow1</Name>
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Visible>True</Visible>
               </GUIInventory>
-              <GUIButton>
-                <OnClick>btnInvSelect_Click</OnClick>
-                <ClickAction>RunScript</ClickAction>
-                <NewModeNumber>2</NewModeNumber>
-                <ClipImage>False</ClipImage>
-                <TextAlignment>TopCenter</TextAlignment>
-                <TextColor>16</TextColor>
-                <Font>0</Font>
-                <PushedImage>2118</PushedImage>
-                <MouseoverImage>2117</MouseoverImage>
-                <Image>2116</Image>
-                <Text xml:space="preserve">New Button</Text>
-                <Height>27</Height>
-                <Locked>False</Locked>
-                <Width>32</Width>
-                <Left>39</Left>
-                <Top>101</Top>
-                <ZOrder>1</ZOrder>
-                <ID>1</ID>
-                <Name>btnInvSelect</Name>
-                <Clickable>True</Clickable>
-                <Enabled>True</Enabled>
-                <Visible>True</Visible>
-              </GUIButton>
-              <GUIButton>
-                <OnClick />
-                <ClickAction>SetCursorMode</ClickAction>
-                <NewModeNumber>1</NewModeNumber>
-                <ClipImage>False</ClipImage>
-                <TextAlignment>TopCenter</TextAlignment>
-                <TextColor>16</TextColor>
-                <Font>0</Font>
-                <PushedImage>2106</PushedImage>
-                <MouseoverImage>2105</MouseoverImage>
-                <Image>2104</Image>
-                <Text xml:space="preserve">New Button</Text>
-                <Height>27</Height>
-                <Locked>False</Locked>
-                <Width>32</Width>
-                <Left>4</Left>
-                <Top>101</Top>
-                <ZOrder>2</ZOrder>
-                <ID>2</ID>
-                <Name>btnInvLook</Name>
-                <Clickable>True</Clickable>
-                <Enabled>True</Enabled>
-                <Visible>True</Visible>
-              </GUIButton>
-              <GUIButton>
-                <OnClick>close_gui_onclick</OnClick>
-                <ClickAction>RunScript</ClickAction>
-                <NewModeNumber>0</NewModeNumber>
-                <ClipImage>False</ClipImage>
-                <TextAlignment>MiddleCenter</TextAlignment>
-                <TextColor>19248</TextColor>
-                <Font>0</Font>
-                <PushedImage>2161</PushedImage>
-                <MouseoverImage>0</MouseoverImage>
-                <Image>2160</Image>
-                <Text>Close</Text>
-                <Height>19</Height>
-                <Locked>False</Locked>
-                <Width>71</Width>
-                <Left>147</Left>
-                <Top>107</Top>
-                <ZOrder>3</ZOrder>
-                <ID>3</ID>
-                <Name>btnInvOK</Name>
-                <Clickable>True</Clickable>
-                <Enabled>True</Enabled>
-                <Visible>True</Visible>
-              </GUIButton>
-              <GUIButton>
-                <OnClick>btnInvDown_Click</OnClick>
-                <ClickAction>RunScript</ClickAction>
-                <NewModeNumber>0</NewModeNumber>
-                <ClipImage>False</ClipImage>
-                <TextAlignment>TopCenter</TextAlignment>
-                <TextColor>16</TextColor>
-                <Font>0</Font>
-                <PushedImage>2146</PushedImage>
-                <MouseoverImage>2145</MouseoverImage>
-                <Image>2144</Image>
-                <Text xml:space="preserve">New Button</Text>
-                <Height>27</Height>
-                <Locked>False</Locked>
-                <Width>30</Width>
-                <Left>188</Left>
-                <Top>71</Top>
-                <ZOrder>4</ZOrder>
-                <ID>4</ID>
-                <Name>btnInvDown</Name>
-                <Clickable>True</Clickable>
-                <Enabled>True</Enabled>
-                <Visible>True</Visible>
-              </GUIButton>
-              <GUIButton>
-                <OnClick>btnInvUp_Click</OnClick>
-                <ClickAction>RunScript</ClickAction>
-                <NewModeNumber>0</NewModeNumber>
-                <ClipImage>False</ClipImage>
-                <TextAlignment>TopCenter</TextAlignment>
-                <TextColor>16</TextColor>
-                <Font>0</Font>
-                <PushedImage>2149</PushedImage>
-                <MouseoverImage>2148</MouseoverImage>
-                <Image>2147</Image>
-                <Text xml:space="preserve">New Button</Text>
-                <Height>27</Height>
-                <Locked>False</Locked>
-                <Width>30</Width>
-                <Left>188</Left>
-                <Top>5</Top>
-                <ZOrder>5</ZOrder>
-                <ID>5</ID>
-                <Name>btnInvUp</Name>
-                <Clickable>True</Clickable>
-                <Enabled>True</Enabled>
-                <Visible>True</Visible>
-              </GUIButton>
             </Controls>
           </GUIMain>
           <GUIMain>
@@ -1053,7 +887,7 @@
               <Transparency>0</Transparency>
               <BackgroundColor>0</BackgroundColor>
               <BackgroundImage>2167</BackgroundImage>
-              <ID>3</ID>
+              <ID>2</ID>
               <Name>gPanel</Name>
             </NormalGUI>
             <Controls>
@@ -1415,7 +1249,7 @@
               <Transparency>0</Transparency>
               <BackgroundColor>0</BackgroundColor>
               <BackgroundImage>2168</BackgroundImage>
-              <ID>4</ID>
+              <ID>3</ID>
               <Name>gRestart</Name>
             </NormalGUI>
             <Controls>
@@ -1492,7 +1326,7 @@
               <Padding>3</Padding>
               <BackgroundColor>19248</BackgroundColor>
               <BackgroundImage>0</BackgroundImage>
-              <ID>5</ID>
+              <ID>4</ID>
               <Name>gTextBorder</Name>
             </TextWindowGUI>
             <Controls>
@@ -1626,7 +1460,7 @@
               <Transparency>0</Transparency>
               <BackgroundColor>8</BackgroundColor>
               <BackgroundImage>28</BackgroundImage>
-              <ID>7</ID>
+              <ID>6</ID>
               <Name>gWordle</Name>
             </NormalGUI>
             <Controls>
@@ -1641,7 +1475,7 @@
                 <PushedImage>0</PushedImage>
                 <MouseoverImage>0</MouseoverImage>
                 <Image>0</Image>
-                <Text>1</Text>
+                <Text />
                 <Height>14</Height>
                 <Locked>False</Locked>
                 <Width>14</Width>
@@ -1665,7 +1499,7 @@
                 <PushedImage>0</PushedImage>
                 <MouseoverImage>0</MouseoverImage>
                 <Image>0</Image>
-                <Text>2</Text>
+                <Text />
                 <Height>14</Height>
                 <Locked>False</Locked>
                 <Width>14</Width>
@@ -1689,11 +1523,11 @@
                 <PushedImage>0</PushedImage>
                 <MouseoverImage>0</MouseoverImage>
                 <Image>0</Image>
-                <Text>3</Text>
+                <Text />
                 <Height>14</Height>
                 <Locked>False</Locked>
                 <Width>14</Width>
-                <Left>153</Left>
+                <Left>155</Left>
                 <Top>64</Top>
                 <ZOrder>2</ZOrder>
                 <ID>2</ID>
@@ -1713,7 +1547,7 @@
                 <PushedImage>0</PushedImage>
                 <MouseoverImage>0</MouseoverImage>
                 <Image>0</Image>
-                <Text>4</Text>
+                <Text />
                 <Height>14</Height>
                 <Locked>False</Locked>
                 <Width>14</Width>
@@ -1737,11 +1571,11 @@
                 <PushedImage>0</PushedImage>
                 <MouseoverImage>0</MouseoverImage>
                 <Image>0</Image>
-                <Text>5</Text>
+                <Text />
                 <Height>14</Height>
                 <Locked>False</Locked>
                 <Width>14</Width>
-                <Left>185</Left>
+                <Left>186</Left>
                 <Top>64</Top>
                 <ZOrder>4</ZOrder>
                 <ID>4</ID>
@@ -1761,11 +1595,11 @@
                 <PushedImage>0</PushedImage>
                 <MouseoverImage>0</MouseoverImage>
                 <Image>0</Image>
-                <Text xml:space="preserve">New Button</Text>
+                <Text />
                 <Height>14</Height>
                 <Locked>False</Locked>
                 <Width>14</Width>
-                <Left>121</Left>
+                <Left>122</Left>
                 <Top>80</Top>
                 <ZOrder>5</ZOrder>
                 <ID>5</ID>
@@ -1785,7 +1619,7 @@
                 <PushedImage>0</PushedImage>
                 <MouseoverImage>0</MouseoverImage>
                 <Image>0</Image>
-                <Text xml:space="preserve">New Button</Text>
+                <Text />
                 <Height>13</Height>
                 <Locked>False</Locked>
                 <Width>14</Width>
@@ -1809,11 +1643,11 @@
                 <PushedImage>0</PushedImage>
                 <MouseoverImage>0</MouseoverImage>
                 <Image>0</Image>
-                <Text xml:space="preserve">New Button</Text>
+                <Text />
                 <Height>13</Height>
                 <Locked>False</Locked>
                 <Width>13</Width>
-                <Left>153</Left>
+                <Left>155</Left>
                 <Top>80</Top>
                 <ZOrder>7</ZOrder>
                 <ID>7</ID>
@@ -1833,7 +1667,7 @@
                 <PushedImage>0</PushedImage>
                 <MouseoverImage>0</MouseoverImage>
                 <Image>0</Image>
-                <Text xml:space="preserve">New Button</Text>
+                <Text />
                 <Height>14</Height>
                 <Locked>False</Locked>
                 <Width>15</Width>
@@ -1857,7 +1691,7 @@
                 <PushedImage>0</PushedImage>
                 <MouseoverImage>0</MouseoverImage>
                 <Image>0</Image>
-                <Text xml:space="preserve">New Button</Text>
+                <Text />
                 <Height>14</Height>
                 <Locked>False</Locked>
                 <Width>13</Width>
@@ -1881,11 +1715,11 @@
                 <PushedImage>0</PushedImage>
                 <MouseoverImage>0</MouseoverImage>
                 <Image>0</Image>
-                <Text xml:space="preserve">New Button</Text>
+                <Text />
                 <Height>13</Height>
                 <Locked>False</Locked>
                 <Width>14</Width>
-                <Left>121</Left>
+                <Left>122</Left>
                 <Top>96</Top>
                 <ZOrder>10</ZOrder>
                 <ID>10</ID>
@@ -1905,7 +1739,7 @@
                 <PushedImage>0</PushedImage>
                 <MouseoverImage>0</MouseoverImage>
                 <Image>0</Image>
-                <Text xml:space="preserve">New Button</Text>
+                <Text />
                 <Height>14</Height>
                 <Locked>False</Locked>
                 <Width>14</Width>
@@ -1929,11 +1763,11 @@
                 <PushedImage>0</PushedImage>
                 <MouseoverImage>0</MouseoverImage>
                 <Image>0</Image>
-                <Text xml:space="preserve">New Button</Text>
+                <Text />
                 <Height>14</Height>
                 <Locked>False</Locked>
                 <Width>14</Width>
-                <Left>153</Left>
+                <Left>155</Left>
                 <Top>96</Top>
                 <ZOrder>12</ZOrder>
                 <ID>12</ID>
@@ -1953,11 +1787,11 @@
                 <PushedImage>0</PushedImage>
                 <MouseoverImage>0</MouseoverImage>
                 <Image>0</Image>
-                <Text xml:space="preserve">New Button</Text>
+                <Text />
                 <Height>14</Height>
                 <Locked>False</Locked>
                 <Width>14</Width>
-                <Left>170</Left>
+                <Left>169</Left>
                 <Top>96</Top>
                 <ZOrder>13</ZOrder>
                 <ID>13</ID>
@@ -1977,11 +1811,11 @@
                 <PushedImage>0</PushedImage>
                 <MouseoverImage>0</MouseoverImage>
                 <Image>0</Image>
-                <Text xml:space="preserve">New Button</Text>
+                <Text />
                 <Height>14</Height>
                 <Locked>False</Locked>
                 <Width>14</Width>
-                <Left>184</Left>
+                <Left>186</Left>
                 <Top>96</Top>
                 <ZOrder>14</ZOrder>
                 <ID>14</ID>
@@ -2001,12 +1835,12 @@
                 <PushedImage>0</PushedImage>
                 <MouseoverImage>0</MouseoverImage>
                 <Image>0</Image>
-                <Text xml:space="preserve">New Button</Text>
+                <Text />
                 <Height>14</Height>
                 <Locked>False</Locked>
                 <Width>11</Width>
                 <Left>122</Left>
-                <Top>112</Top>
+                <Top>113</Top>
                 <ZOrder>15</ZOrder>
                 <ID>15</ID>
                 <Name>Button16</Name>
@@ -2025,12 +1859,12 @@
                 <PushedImage>0</PushedImage>
                 <MouseoverImage>0</MouseoverImage>
                 <Image>0</Image>
-                <Text xml:space="preserve">New Button</Text>
+                <Text />
                 <Height>14</Height>
                 <Locked>False</Locked>
                 <Width>13</Width>
                 <Left>137</Left>
-                <Top>111</Top>
+                <Top>113</Top>
                 <ZOrder>16</ZOrder>
                 <ID>16</ID>
                 <Name>Button17</Name>
@@ -2049,12 +1883,12 @@
                 <PushedImage>0</PushedImage>
                 <MouseoverImage>0</MouseoverImage>
                 <Image>0</Image>
-                <Text xml:space="preserve">New Button</Text>
+                <Text />
                 <Height>13</Height>
                 <Locked>False</Locked>
                 <Width>12</Width>
                 <Left>155</Left>
-                <Top>112</Top>
+                <Top>113</Top>
                 <ZOrder>17</ZOrder>
                 <ID>17</ID>
                 <Name>Button18</Name>
@@ -2073,12 +1907,12 @@
                 <PushedImage>0</PushedImage>
                 <MouseoverImage>0</MouseoverImage>
                 <Image>0</Image>
-                <Text xml:space="preserve">New Button</Text>
+                <Text />
                 <Height>12</Height>
                 <Locked>False</Locked>
                 <Width>13</Width>
                 <Left>169</Left>
-                <Top>112</Top>
+                <Top>113</Top>
                 <ZOrder>18</ZOrder>
                 <ID>18</ID>
                 <Name>Button19</Name>
@@ -2097,7 +1931,7 @@
                 <PushedImage>0</PushedImage>
                 <MouseoverImage>0</MouseoverImage>
                 <Image>0</Image>
-                <Text xml:space="preserve">New Button</Text>
+                <Text />
                 <Height>13</Height>
                 <Locked>False</Locked>
                 <Width>13</Width>
@@ -2128,7 +1962,7 @@
               <Transparency>0</Transparency>
               <BackgroundColor>0</BackgroundColor>
               <BackgroundImage>2168</BackgroundImage>
-              <ID>6</ID>
+              <ID>5</ID>
               <Name>gExitGame</Name>
             </NormalGUI>
             <Controls>
@@ -2205,7 +2039,26 @@
     <InventoryItems>
       <InventoryItemFolder Name="Main">
         <SubFolders />
-        <InventoryItems />
+        <InventoryItems>
+          <InventoryItem>
+            <ID>1</ID>
+            <HotspotX>1</HotspotX>
+            <HotspotY>1</HotspotY>
+            <PlayerStartsWithItem>False</PlayerStartsWithItem>
+            <CursorImage>73</CursorImage>
+            <Image>73</Image>
+            <Description xml:space="preserve">Snowglobe Collection</Description>
+            <Name>iSnowglobes</Name>
+            <Properties />
+            <Interactions>
+              <Event Index="0" />
+              <Event Index="1" />
+              <Event Index="2" />
+              <Event Index="3" />
+              <Event Index="4" />
+            </Interactions>
+          </InventoryItem>
+        </InventoryItems>
       </InventoryItemFolder>
     </InventoryItems>
     <TextParser>
@@ -5782,6 +5635,21 @@ stop
               <OffsetY>0</OffsetY>
               <ImportHeight>200</ImportHeight>
               <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="73" Width="12" Height="16" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Inventory/iSnowglobe.png</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>16</ImportHeight>
+              <ImportWidth>12</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>0</Frame>
               <RemapToGamePalette>False</RemapToGamePalette>
