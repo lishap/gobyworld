@@ -2379,7 +2379,7 @@
               <Event Index="1" />
               <Event Index="2" />
               <Event Index="3" />
-              <Event Index="4" />
+              <Event Index="4">cMallory_AnyClick</Event>
               <Event Index="5" />
               <Event Index="6" />
               <Event Index="7" />
@@ -2481,7 +2481,7 @@
 @S  // Dialog startup entry point
 return
 @1
-CLOWN: I got swallowed twenty years ago. About three times as long as you. You showed up, what five years ago?
+CLOWN: QT Pie, I'm an arcade token. I got swallowed twenty years ago. About three times as long as you. You showed up, what five years ago?
 option-off 1
 return
 @2
@@ -2498,13 +2498,13 @@ return
 
 @3
 CLOWN: Power to you!
-option-off 3
+
 goto-dialog dLeave
 ]]></Script>
             <DialogOptions>
               <DialogOption>
                 <ID>1</ID>
-                <Text xml:space="preserve">How long have you been here?</Text>
+                <Text xml:space="preserve">Remind me your name again?</Text>
                 <Show>True</Show>
                 <Say>True</Say>
               </DialogOption>
@@ -2531,7 +2531,7 @@ goto-dialog dLeave
 return
 @1
 CLOWN: The only way is down. You can leave through the small intestine on my left. That will take you out the large intestine, and your freedom awaits you out the rectum and anus. 
-return
+stop
 
 @2
 CLOWN: Probably. You'll need some swim gear. I have extra, but I'm not giving it away for free. 
@@ -2539,16 +2539,14 @@ GOBY: I also want to bring my snowglobes!
 CLOWN: Okay, kid. 
 GOBY: And a nice outfit for the outside world.. and food for Mallory. 
 CLOWN: You're bringing your dog?
-return
+stop
 @3
 CLOWN: Pack your bags, then if you can help me solve this Wordle, I'll give you swim gear. I'm stuck.
    if (player.InventoryQuantity[iSnowglobes.ID] != 0 && player.InventoryQuantity[iSuit.ID]!=0&&player.InventoryQuantity[iDogFood.ID]!=0)
    {
   dWordle.Start();
-   } else{
-     dLeave.Start();
-     }
-return
+   } 
+stop
 ]]></Script>
             <DialogOptions>
               <DialogOption>
@@ -5742,6 +5740,21 @@ return
               <OffsetY>0</OffsetY>
               <ImportHeight>22</ImportHeight>
               <ImportWidth>16</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="76" Width="32" Height="27" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Objects/DogFood.png</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>27</ImportHeight>
+              <ImportWidth>32</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>0</Frame>
               <RemapToGamePalette>False</RemapToGamePalette>
