@@ -2042,11 +2042,11 @@
         <InventoryItems>
           <InventoryItem>
             <ID>1</ID>
-            <HotspotX>1</HotspotX>
-            <HotspotY>1</HotspotY>
+            <HotspotX>0</HotspotX>
+            <HotspotY>0</HotspotY>
             <PlayerStartsWithItem>False</PlayerStartsWithItem>
-            <CursorImage>73</CursorImage>
-            <Image>73</Image>
+            <CursorImage>85</CursorImage>
+            <Image>85</Image>
             <Description xml:space="preserve">Snowglobe Collection</Description>
             <Name>iSnowglobes</Name>
             <Properties />
@@ -2662,11 +2662,16 @@ stop]]></Script>
           </Dialog>
           <Dialog>
             <ID>2</ID>
-            <Name>dLaLaineHead</Name>
+            <Name>dLaLaine</Name>
             <ShowTextParser>False</ShowTextParser>
             <Script><![CDATA[// Dialog script file
 @S  // Dialog startup entry point
-LaLaine: Help me! My torso, legs and arms have been washed away by the bile river. 
+LaLaine: Thank you for saving me Goby! I didn't know bisexual people could be so kind!
+Goby: How did you know I'm bi?
+LaLaine: Your tramp stamp. Honestly just guessed based on stereotypes.
+Goby: Okay. How do I leave?
+LaLaine: Swim past the Fisherman's Wharf, Gumby!
+Goby: It's Goby. 
 return
 ]]></Script>
             <DialogOptions />
@@ -5947,6 +5952,21 @@ return
               <OffsetY>0</OffsetY>
               <ImportHeight>24</ImportHeight>
               <ImportWidth>27</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="85" Width="21" Height="24" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Inventory/iSnowglobe.png</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>24</ImportHeight>
+              <ImportWidth>21</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>0</Frame>
               <RemapToGamePalette>False</RemapToGamePalette>
