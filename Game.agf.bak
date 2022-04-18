@@ -2081,8 +2081,8 @@
             <HotspotX>0</HotspotX>
             <HotspotY>0</HotspotY>
             <PlayerStartsWithItem>False</PlayerStartsWithItem>
-            <CursorImage>75</CursorImage>
-            <Image>75</Image>
+            <CursorImage>76</CursorImage>
+            <Image>76</Image>
             <Description xml:space="preserve">Dog Food</Description>
             <Name>iDogFood</Name>
             <Properties />
@@ -2675,6 +2675,28 @@ Goby: It's Goby.
 return
 ]]></Script>
             <DialogOptions />
+          </Dialog>
+          <Dialog>
+            <ID>4</ID>
+            <Name>dMerchant</Name>
+            <ShowTextParser>False</ShowTextParser>
+            <Script><![CDATA[// Dialog script file
+@S  // Dialog startup entry point
+Merchant: I am Merchant Pitts. 
+Goby: I'm Goby. I'm a piece of gum trying to find his way home. 
+Merchant: I'm the pit in your stomach, or in your large intestine. 
+return
+@1
+return
+]]></Script>
+            <DialogOptions>
+              <DialogOption>
+                <ID>1</ID>
+                <Text xml:space="preserve">You have water?</Text>
+                <Show>True</Show>
+                <Say>True</Say>
+              </DialogOption>
+            </DialogOptions>
           </Dialog>
         </Dialogs>
       </DialogFolder>
@@ -6160,6 +6182,261 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
+          <Sprite Slot="98" Width="153" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Objects/DogFoodFloatAway.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>153</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="99" Width="153" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Objects/DogFoodFloatAway.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>153</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>1</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="100" Width="153" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Objects/DogFoodFloatAway.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>153</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>2</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="101" Width="153" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Objects/DogFoodFloatAway.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>153</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>3</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="102" Width="153" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Objects/DogFoodFloatAway.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>153</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>4</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="103" Width="153" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Objects/DogFoodFloatAway.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>153</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>5</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="104" Width="153" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Objects/DogFoodFloatAway.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>153</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>6</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="105" Width="153" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Objects/DogFoodFloatAway.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>153</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>7</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="106" Width="153" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Objects/DogFoodFloatAway.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>153</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>8</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="107" Width="153" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Objects/DogFoodFloatAway.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>153</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>9</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="108" Width="153" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Objects/DogFoodFloatAway.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>153</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>10</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="109" Width="153" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Objects/DogFoodFloatAway.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>153</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>11</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="110" Width="153" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Objects/DogFoodFloatAway.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>153</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>12</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="111" Width="71" Height="36" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Mallory/GobyDogWalkPink.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>36</ImportHeight>
+              <ImportWidth>71</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="112" Width="71" Height="36" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Mallory/GobyDogWalkPink.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>36</ImportHeight>
+              <ImportWidth>71</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>1</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="113" Width="71" Height="36" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Mallory/GobyDogWalkPink.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>36</ImportHeight>
+              <ImportWidth>71</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>2</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="114" Width="71" Height="36" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Mallory/GobyDogWalkPink.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>36</ImportHeight>
+              <ImportWidth>71</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>3</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
         </Sprites>
       </SpriteFolder>
     </Sprites>
@@ -6374,28 +6651,28 @@ return
                 <Frames>
                   <ViewFrame>
                     <ID>0</ID>
-                    <Image>23</Image>
+                    <Image>111</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>1</ID>
-                    <Image>24</Image>
+                    <Image>112</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>2</ID>
-                    <Image>25</Image>
+                    <Image>113</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>3</ID>
-                    <Image>26</Image>
+                    <Image>114</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
@@ -6408,28 +6685,28 @@ return
                 <Frames>
                   <ViewFrame>
                     <ID>0</ID>
-                    <Image>23</Image>
+                    <Image>111</Image>
                     <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>1</ID>
-                    <Image>24</Image>
+                    <Image>112</Image>
                     <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>2</ID>
-                    <Image>25</Image>
+                    <Image>113</Image>
                     <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>3</ID>
-                    <Image>26</Image>
+                    <Image>114</Image>
                     <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
@@ -6798,12 +7075,113 @@ return
               </Loop>
             </Loops>
           </View>
+          <View>
+            <ID>7</ID>
+            <Name>vDogFood</Name>
+            <Loops>
+              <Loop>
+                <ID>0</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>98</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>99</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>100</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>101</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>102</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>103</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>6</ID>
+                    <Image>104</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>7</ID>
+                    <Image>105</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>8</ID>
+                    <Image>106</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>9</ID>
+                    <Image>107</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>10</ID>
+                    <Image>108</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>11</ID>
+                    <Image>109</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>12</ID>
+                    <Image>110</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+            </Loops>
+          </View>
         </Views>
       </ViewFolder>
     </Views>
-    <DeletedViews>
-      <ViewID>7</ViewID>
-    </DeletedViews>
+    <DeletedViews />
     <Scripts>
       <ScriptFolder Name="Main">
         <SubFolders />
