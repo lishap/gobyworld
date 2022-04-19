@@ -2684,7 +2684,7 @@ stop]]></Script>
 @S  // Dialog startup entry point
 LaLaine: Thank you for saving me Goby! I didn't know bisexual people could be so kind!
 Goby: How did you know I'm bi?
-LaLaine: Your tramp stamp. Honestly just guessed based on stereotypes. I've replaced your spilled dog food with a treat for Mallory. 
+LaLaine: Your tramp stamp. Honestly just guessed based on stereotypes. 
 Goby: Thank you. How do I leave?
 LaLaine: Swim past the Fisherman's Wharf, Gumby!
 Goby: It's Goby. 
@@ -2721,7 +2721,7 @@ stop]]></Script>
         <ID>0</ID>
         <HotspotX>1</HotspotX>
         <HotspotY>1</HotspotY>
-        <StandardMode>True</StandardMode>
+        <StandardMode>False</StandardMode>
         <Image>2054</Image>
         <View>0</View>
         <Animate>False</Animate>
@@ -2733,7 +2733,7 @@ stop]]></Script>
         <ID>1</ID>
         <HotspotX>1</HotspotX>
         <HotspotY>1</HotspotY>
-        <StandardMode>True</StandardMode>
+        <StandardMode>False</StandardMode>
         <Image>2056</Image>
         <View>0</View>
         <Animate>False</Animate>
@@ -2757,7 +2757,7 @@ stop]]></Script>
         <ID>3</ID>
         <HotspotX>1</HotspotX>
         <HotspotY>1</HotspotY>
-        <StandardMode>True</StandardMode>
+        <StandardMode>False</StandardMode>
         <Image>2058</Image>
         <View>0</View>
         <Animate>False</Animate>
@@ -6857,37 +6857,6 @@ stop]]></Script>
                     <Sound>0</Sound>
                   </ViewFrame>
                 </Frames>
-              </Loop>
-              <Loop>
-                <ID>1</ID>
-                <RunNextLoop>False</RunNextLoop>
-                <Frames>
-                  <ViewFrame>
-                    <ID>0</ID>
-                    <Image>0</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                </Frames>
-              </Loop>
-              <Loop>
-                <ID>2</ID>
-                <RunNextLoop>False</RunNextLoop>
-                <Frames>
-                  <ViewFrame>
-                    <ID>0</ID>
-                    <Image>0</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                </Frames>
-              </Loop>
-              <Loop>
-                <ID>3</ID>
-                <RunNextLoop>False</RunNextLoop>
-                <Frames />
               </Loop>
             </Loops>
           </View>
