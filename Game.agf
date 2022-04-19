@@ -2182,6 +2182,42 @@
               <Event Index="4" />
             </Interactions>
           </InventoryItem>
+          <InventoryItem>
+            <ID>8</ID>
+            <HotspotX>0</HotspotX>
+            <HotspotY>0</HotspotY>
+            <PlayerStartsWithItem>False</PlayerStartsWithItem>
+            <CursorImage>157</CursorImage>
+            <Image>157</Image>
+            <Description xml:space="preserve">Bi Pride Flag</Description>
+            <Name>iBiPrideFlag</Name>
+            <Properties />
+            <Interactions>
+              <Event Index="0" />
+              <Event Index="1" />
+              <Event Index="2" />
+              <Event Index="3" />
+              <Event Index="4" />
+            </Interactions>
+          </InventoryItem>
+          <InventoryItem>
+            <ID>9</ID>
+            <HotspotX>0</HotspotX>
+            <HotspotY>0</HotspotY>
+            <PlayerStartsWithItem>False</PlayerStartsWithItem>
+            <CursorImage>158</CursorImage>
+            <Image>158</Image>
+            <Description xml:space="preserve">Ruby Slippers</Description>
+            <Name>iRubySlippers</Name>
+            <Properties />
+            <Interactions>
+              <Event Index="0" />
+              <Event Index="1" />
+              <Event Index="2" />
+              <Event Index="3" />
+              <Event Index="4" />
+            </Interactions>
+          </InventoryItem>
         </InventoryItems>
       </InventoryItemFolder>
     </InventoryItems>
@@ -2682,7 +2718,8 @@ stop]]></Script>
             <ShowTextParser>False</ShowTextParser>
             <Script><![CDATA[// Dialog script file
 @S  // Dialog startup entry point
-LaLaine: Thank you for saving me Goby! I didn't know bisexual people could be so kind!
+LaLaine: Thank you for saving me Goby! I left a prize in your inventory. I didn't know bisexual people could be so kind!
+     player.AddInventory(iBiPrideFlag);
 Goby: How did you know I'm bi?
 LaLaine: Your tramp stamp. Honestly just guessed based on stereotypes. 
 Goby: Thank you. How do I leave?
@@ -2703,11 +2740,74 @@ Goby: I'm Goby. I'm a piece of gum trying to find his way home.
 Merchant: I'm the pit in your stomach, or in your large intestine. 
 return
 @1
-stop]]></Script>
+Goby: Damn, if I knew you had water I wouldn't have smashed my snowglobes.
+Merchant: Too bad, Dumby.
+Goby: Hey!
+return
+@2
+Merchant: I have water bottles, tulips, poppers and last but not least-- *ruby slippers*!
+return
+@3
+Merchant: Well, what can you trade me?
+goto-dialog dTrade
+
+]]></Script>
             <DialogOptions>
               <DialogOption>
                 <ID>1</ID>
                 <Text xml:space="preserve">You have water?</Text>
+                <Show>True</Show>
+                <Say>True</Say>
+              </DialogOption>
+              <DialogOption>
+                <ID>2</ID>
+                <Text xml:space="preserve">What are you selling?</Text>
+                <Show>True</Show>
+                <Say>True</Say>
+              </DialogOption>
+              <DialogOption>
+                <ID>3</ID>
+                <Text xml:space="preserve">I want the Ruby Slippers. </Text>
+                <Show>True</Show>
+                <Say>True</Say>
+              </DialogOption>
+            </DialogOptions>
+          </Dialog>
+          <Dialog>
+            <ID>5</ID>
+            <Name>dTrade</Name>
+            <ShowTextParser>False</ShowTextParser>
+            <Script><![CDATA[// Dialog script file
+@1
+Merchant: That's not going to fit me. 
+return
+@2
+Merchant: I will trade you ruby slippers for it. I'm an ally. 
+    cGoby.LoseInventory(iBiPrideFlag);
+    cMerchant.ChangeView(11);
+    cGoby.AddInventoryInventory(iRubySlippers);
+Merchant: You can use these to return home at any time. 
+stop
+@3
+Merchant: Try me!
+return
+]]></Script>
+            <DialogOptions>
+              <DialogOption>
+                <ID>1</ID>
+                <Text xml:space="preserve">I have my suit. </Text>
+                <Show>True</Show>
+                <Say>True</Say>
+              </DialogOption>
+              <DialogOption>
+                <ID>2</ID>
+                <Text xml:space="preserve">I have this bi pride flag.</Text>
+                <Show>True</Show>
+                <Say>True</Say>
+              </DialogOption>
+              <DialogOption>
+                <ID>3</ID>
+                <Text xml:space="preserve">I don't think I have anything you'll want.</Text>
                 <Show>True</Show>
                 <Say>True</Say>
               </DialogOption>
@@ -7037,6 +7137,81 @@ stop]]></Script>
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
+          <Sprite Slot="154" Width="97" Height="152" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Merchant/MerchantSell.png</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>152</ImportHeight>
+              <ImportWidth>97</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="155" Width="97" Height="152" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Merchant/MerchantSelNoSlippersl.png</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>152</ImportHeight>
+              <ImportWidth>97</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="156" Width="97" Height="152" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Merchant/MerchantSelNoSlippers.png</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>152</ImportHeight>
+              <ImportWidth>97</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="157" Width="19" Height="22" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Inventory/iBiPrideFlag.png</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>22</ImportHeight>
+              <ImportWidth>19</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopRight</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="158" Width="13" Height="10" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Inventory/iSlippers.png</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>10</ImportHeight>
+              <ImportWidth>13</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
         </Sprites>
       </SpriteFolder>
     </Sprites>
@@ -7590,7 +7765,7 @@ stop]]></Script>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>11</ID>
-                    <Image>97</Image>
+                    <Image>154</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
@@ -7603,7 +7778,7 @@ stop]]></Script>
                 <Frames>
                   <ViewFrame>
                     <ID>0</ID>
-                    <Image>97</Image>
+                    <Image>154</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
@@ -7612,6 +7787,19 @@ stop]]></Script>
               </Loop>
               <Loop>
                 <ID>3</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>156</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>4</ID>
                 <RunNextLoop>False</RunNextLoop>
                 <Frames />
               </Loop>
@@ -8118,6 +8306,25 @@ stop]]></Script>
                   <ViewFrame>
                     <ID>14</ID>
                     <Image>145</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+            </Loops>
+          </View>
+          <View>
+            <ID>11</ID>
+            <Name>vMerchantTrade</Name>
+            <Loops>
+              <Loop>
+                <ID>0</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>156</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
