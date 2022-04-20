@@ -2419,9 +2419,9 @@
             <MovementLinkedToAnimation>True</MovementLinkedToAnimation>
             <Properties />
             <Interactions>
-              <Event Index="0">cEgo_Look</Event>
-              <Event Index="1">cEgo_Interact</Event>
-              <Event Index="2">cEgo_Talk</Event>
+              <Event Index="0" />
+              <Event Index="1" />
+              <Event Index="2" />
               <Event Index="3">cGoby_UseInv</Event>
               <Event Index="4" />
               <Event Index="5" />
@@ -7212,6 +7212,21 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
+          <Sprite Slot="159" Width="40" Height="110" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobyBarf.png</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>110</ImportHeight>
+              <ImportWidth>40</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
         </Sprites>
       </SpriteFolder>
     </Sprites>
@@ -8333,6 +8348,25 @@ return
               </Loop>
             </Loops>
           </View>
+          <View>
+            <ID>12</ID>
+            <Name>vGobyBarf</Name>
+            <Loops>
+              <Loop>
+                <ID>0</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>159</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+            </Loops>
+          </View>
         </Views>
       </ViewFolder>
     </Views>
@@ -8442,9 +8476,9 @@ See KeyboardMovement.txt for details.
                 <FileLastModifiedDate>2022-04-19 21:39:54Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aGOBY_2</ScriptName>
                 <ID>1</ID>
                 <SourceFileName xml:space="preserve">Music/GOBY 2.mp3</SourceFileName>
+                <ScriptName>aGOBY_2</ScriptName>
                 <Index>2</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -8455,9 +8489,9 @@ See KeyboardMovement.txt for details.
                 <FileLastModifiedDate>2022-04-19 21:39:48Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aLargeIntestine</ScriptName>
                 <ID>2</ID>
                 <SourceFileName>Music/largeIntestine.mp3</SourceFileName>
+                <ScriptName>aLargeIntestine</ScriptName>
                 <Index>3</Index>
                 <Type>2</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8468,9 +8502,9 @@ See KeyboardMovement.txt for details.
                 <FileLastModifiedDate>2022-04-19 21:39:44Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aRectumAnus</ScriptName>
                 <ID>3</ID>
                 <SourceFileName>Music/rectumAnus.mp3</SourceFileName>
+                <ScriptName>aRectumAnus</ScriptName>
                 <Index>4</Index>
                 <Type>2</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8481,9 +8515,9 @@ See KeyboardMovement.txt for details.
                 <FileLastModifiedDate>2022-04-19 21:39:52Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSmallIntestine</ScriptName>
                 <ID>4</ID>
                 <SourceFileName>Music/smallIntestine.mp3</SourceFileName>
+                <ScriptName>aSmallIntestine</ScriptName>
                 <Index>5</Index>
                 <Type>2</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8494,9 +8528,9 @@ See KeyboardMovement.txt for details.
                 <FileLastModifiedDate>2022-04-19 21:39:58Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aStomach</ScriptName>
                 <ID>5</ID>
                 <SourceFileName>Music/stomach.mp3</SourceFileName>
+                <ScriptName>aStomach</ScriptName>
                 <Index>6</Index>
                 <Type>2</Type>
                 <BundlingType>InGameEXE</BundlingType>
