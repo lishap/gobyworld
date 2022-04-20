@@ -697,6 +697,10 @@
             <Number>13</Number>
             <Description>Mouth</Description>
           </UnloadedRoom>
+          <UnloadedRoom>
+            <Number>14</Number>
+            <Description xml:space="preserve">New Stomach</Description>
+          </UnloadedRoom>
         </UnloadedRooms>
       </UnloadedRoomFolder>
     </Rooms>
@@ -3221,6 +3225,11 @@ return
         </GlobalVariable>
         <GlobalVariable>
           <Name>gobyReturn</Name>
+          <Type>bool</Type>
+          <DefaultValue>false</DefaultValue>
+        </GlobalVariable>
+        <GlobalVariable>
+          <Name>newMouth</Name>
           <Type>bool</Type>
           <DefaultValue>false</DefaultValue>
         </GlobalVariable>
