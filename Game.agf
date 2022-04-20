@@ -35,7 +35,7 @@
       <AntiGlideMode>True</AntiGlideMode>
       <DebugMode>True</DebugMode>
       <InventoryCursors>True</InventoryCursors>
-      <HandleInvClicksInScript>False</HandleInvClicksInScript>
+      <HandleInvClicksInScript>True</HandleInvClicksInScript>
       <DisplayMultipleInventory>False</DisplayMultipleInventory>
       <ScriptAPIVersion>Highest</ScriptAPIVersion>
       <ScriptCompatLevel>Highest</ScriptCompatLevel>
@@ -49,7 +49,7 @@
       <DialogOptionsGUI>0</DialogOptionsGUI>
       <DialogOptionsGap>0</DialogOptionsGap>
       <DialogOptionsBullet>0</DialogOptionsBullet>
-      <SkipSpeech>MouseOrKeyboardOrTimer</SkipSpeech>
+      <SkipSpeech>MouseOnly</SkipSpeech>
       <SpeechStyle>Lucasarts</SpeechStyle>
       <UseGlobalSpeechAnimationDelay>False</UseGlobalSpeechAnimationDelay>
       <GlobalSpeechAnimationDelay>5</GlobalSpeechAnimationDelay>
@@ -77,7 +77,7 @@
       <EnhancedSaveGames>False</EnhancedSaveGames>
       <SaveGameFileExtension />
       <SaveGameFolderName>Gobyworld</SaveGameFolderName>
-      <BinaryFilesInSourceControl>False</BinaryFilesInSourceControl>
+      <BinaryFilesInSourceControl>True</BinaryFilesInSourceControl>
       <AudioIndexer>6</AudioIndexer>
       <BuildTargets>Windows</BuildTargets>
       <RenderAtScreenResolution>UserDefined</RenderAtScreenResolution>
@@ -7844,6 +7844,24 @@ return
                     <Sound>0</Sound>
                   </ViewFrame>
                 </Frames>
+              </Loop>
+              <Loop>
+                <ID>2</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>0</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>3</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames />
               </Loop>
             </Loops>
           </View>
