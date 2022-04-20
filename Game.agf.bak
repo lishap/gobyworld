@@ -2422,7 +2422,7 @@
               <Event Index="0">cEgo_Look</Event>
               <Event Index="1">cEgo_Interact</Event>
               <Event Index="2">cEgo_Talk</Event>
-              <Event Index="3" />
+              <Event Index="3">cGoby_UseInv</Event>
               <Event Index="4" />
               <Event Index="5" />
               <Event Index="6" />
@@ -2785,7 +2785,7 @@ return
 Merchant: I will trade you ruby slippers for it. I'm an ally. 
     cGoby.LoseInventory(iBiPrideFlag);
     cMerchant.ChangeView(11);
-    cGoby.AddInventoryInventory(iRubySlippers);
+    cGoby.AddInventory(iRubySlippers);
 Merchant: You can use these to return home at any time. 
 stop
 @3
