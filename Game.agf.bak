@@ -3219,6 +3219,11 @@ return
           <Type>bool</Type>
           <DefaultValue>false</DefaultValue>
         </GlobalVariable>
+        <GlobalVariable>
+          <Name>gobyReturn</Name>
+          <Type>bool</Type>
+          <DefaultValue>false</DefaultValue>
+        </GlobalVariable>
       </Variables>
     </GlobalVariables>
     <Sprites>
@@ -7212,9 +7217,9 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="161" Width="40" Height="110" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="160" Width="40" Height="110" ColorDepth="16" Resolution="Real" AlphaChannel="False">
             <Source>
-              <FileName>Sprites/Goby/GobyBarf.png</FileName>
+              <FileName>Sprites/Goby/GobyBarf.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
               <ImportHeight>110</ImportHeight>
@@ -7223,17 +7228,32 @@ return
               <Frame>0</Frame>
               <RemapToGamePalette>False</RemapToGamePalette>
               <RemapToRoomPalette>False</RemapToRoomPalette>
-              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportMethod>TopLeft</ImportMethod>
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="159" Width="40" Height="110" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="159" Width="320" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
             <Source>
-              <FileName>Sprites/Goby/GobyBarf.png</FileName>
+              <FileName>Objects/GobyBedroomMirrors2.png</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>110</ImportHeight>
-              <ImportWidth>40</ImportWidth>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="161" Width="320" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Objects/GobyBedroomMirrors1.png</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>0</Frame>
               <RemapToGamePalette>False</RemapToGamePalette>
@@ -8373,7 +8393,7 @@ return
                 <Frames>
                   <ViewFrame>
                     <ID>0</ID>
-                    <Image>159</Image>
+                    <Image>160</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
