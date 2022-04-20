@@ -8498,22 +8498,22 @@ See KeyboardMovement.txt for details.
             <SubFolders />
             <AudioClips>
               <AudioClip>
+                <ScriptName>aEsophagus</ScriptName>
                 <ID>0</ID>
                 <SourceFileName>Music/esophagus.mp3</SourceFileName>
-                <ScriptName>aEsophagus</ScriptName>
                 <Index>1</Index>
                 <Type>2</Type>
                 <BundlingType>InGameEXE</BundlingType>
                 <FileType>MP3</FileType>
-                <DefaultVolume>20</DefaultVolume>
+                <DefaultVolume>60</DefaultVolume>
                 <DefaultPriority>Normal</DefaultPriority>
                 <DefaultRepeat>True</DefaultRepeat>
                 <FileLastModifiedDate>2022-04-19 21:39:54Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
+                <ScriptName>aGOBY_2</ScriptName>
                 <ID>1</ID>
                 <SourceFileName xml:space="preserve">Music/GOBY 2.mp3</SourceFileName>
-                <ScriptName>aGOBY_2</ScriptName>
                 <Index>2</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -8524,53 +8524,53 @@ See KeyboardMovement.txt for details.
                 <FileLastModifiedDate>2022-04-19 21:39:48Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
+                <ScriptName>aLargeIntestine</ScriptName>
                 <ID>2</ID>
                 <SourceFileName>Music/largeIntestine.mp3</SourceFileName>
-                <ScriptName>aLargeIntestine</ScriptName>
                 <Index>3</Index>
                 <Type>2</Type>
                 <BundlingType>InGameEXE</BundlingType>
                 <FileType>MP3</FileType>
-                <DefaultVolume>20</DefaultVolume>
+                <DefaultVolume>60</DefaultVolume>
                 <DefaultPriority>Normal</DefaultPriority>
                 <DefaultRepeat>True</DefaultRepeat>
                 <FileLastModifiedDate>2022-04-19 21:39:44Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
+                <ScriptName>aRectumAnus</ScriptName>
                 <ID>3</ID>
                 <SourceFileName>Music/rectumAnus.mp3</SourceFileName>
-                <ScriptName>aRectumAnus</ScriptName>
                 <Index>4</Index>
                 <Type>2</Type>
                 <BundlingType>InGameEXE</BundlingType>
                 <FileType>MP3</FileType>
-                <DefaultVolume>20</DefaultVolume>
+                <DefaultVolume>60</DefaultVolume>
                 <DefaultPriority>Normal</DefaultPriority>
                 <DefaultRepeat>True</DefaultRepeat>
                 <FileLastModifiedDate>2022-04-19 21:39:52Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
+                <ScriptName>aSmallIntestine</ScriptName>
                 <ID>4</ID>
                 <SourceFileName>Music/smallIntestine.mp3</SourceFileName>
-                <ScriptName>aSmallIntestine</ScriptName>
                 <Index>5</Index>
                 <Type>2</Type>
                 <BundlingType>InGameEXE</BundlingType>
                 <FileType>MP3</FileType>
-                <DefaultVolume>20</DefaultVolume>
+                <DefaultVolume>60</DefaultVolume>
                 <DefaultPriority>Normal</DefaultPriority>
                 <DefaultRepeat>True</DefaultRepeat>
                 <FileLastModifiedDate>2022-04-19 21:39:58Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
+                <ScriptName>aStomach</ScriptName>
                 <ID>5</ID>
                 <SourceFileName>Music/stomach.mp3</SourceFileName>
-                <ScriptName>aStomach</ScriptName>
                 <Index>6</Index>
                 <Type>2</Type>
                 <BundlingType>InGameEXE</BundlingType>
                 <FileType>MP3</FileType>
-                <DefaultVolume>20</DefaultVolume>
+                <DefaultVolume>60</DefaultVolume>
                 <DefaultPriority>Normal</DefaultPriority>
                 <DefaultRepeat>True</DefaultRepeat>
                 <FileLastModifiedDate>2022-04-19 21:39:56Z</FileLastModifiedDate>
@@ -8608,24 +8608,24 @@ See KeyboardMovement.txt for details.
     </AudioClips>
     <AudioClipTypes>
       <AudioClipType>
-        <TypeID>1</TypeID>
         <Name xml:space="preserve">Ambient Sound</Name>
+        <TypeID>1</TypeID>
         <MaxChannels>1</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>
         <BackwardsCompatibilityType>True</BackwardsCompatibilityType>
       </AudioClipType>
       <AudioClipType>
-        <TypeID>2</TypeID>
         <Name>Music</Name>
+        <TypeID>2</TypeID>
         <MaxChannels>1</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>30</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>
         <BackwardsCompatibilityType>True</BackwardsCompatibilityType>
       </AudioClipType>
       <AudioClipType>
-        <TypeID>3</TypeID>
         <Name>Sound</Name>
+        <TypeID>3</TypeID>
         <MaxChannels>0</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>
