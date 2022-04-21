@@ -2443,8 +2443,8 @@
             <ThinkingView>0</ThinkingView>
             <BlinkingView>0</BlinkingView>
             <StartingRoom>2</StartingRoom>
-            <StartX>122</StartX>
-            <StartY>164</StartY>
+            <StartX>163</StartX>
+            <StartY>199</StartY>
             <UniformMovementSpeed>True</UniformMovementSpeed>
             <MovementSpeed>3</MovementSpeed>
             <MovementSpeedX>0</MovementSpeedX>
@@ -7277,6 +7277,21 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
+          <Sprite Slot="155" Width="320" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/ClownCoin/ClownCoinHallway.png</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
         </Sprites>
       </SpriteFolder>
     </Sprites>
@@ -7436,7 +7451,7 @@ return
                 <Frames>
                   <ViewFrame>
                     <ID>0</ID>
-                    <Image>13</Image>
+                    <Image>155</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
