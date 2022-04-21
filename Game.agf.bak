@@ -7151,51 +7151,6 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="154" Width="97" Height="152" ColorDepth="16" Resolution="Real" AlphaChannel="False">
-            <Source>
-              <FileName>Sprites/Merchant/MerchantSell.png</FileName>
-              <OffsetX>0</OffsetX>
-              <OffsetY>0</OffsetY>
-              <ImportHeight>152</ImportHeight>
-              <ImportWidth>97</ImportWidth>
-              <ImportAsTile>False</ImportAsTile>
-              <Frame>0</Frame>
-              <RemapToGamePalette>False</RemapToGamePalette>
-              <RemapToRoomPalette>False</RemapToRoomPalette>
-              <ImportMethod>TopLeft</ImportMethod>
-              <ImportAlphaChannel>True</ImportAlphaChannel>
-            </Source>
-          </Sprite>
-          <Sprite Slot="155" Width="97" Height="152" ColorDepth="16" Resolution="Real" AlphaChannel="False">
-            <Source>
-              <FileName>Sprites/Merchant/MerchantSelNoSlippersl.png</FileName>
-              <OffsetX>0</OffsetX>
-              <OffsetY>0</OffsetY>
-              <ImportHeight>152</ImportHeight>
-              <ImportWidth>97</ImportWidth>
-              <ImportAsTile>False</ImportAsTile>
-              <Frame>0</Frame>
-              <RemapToGamePalette>False</RemapToGamePalette>
-              <RemapToRoomPalette>False</RemapToRoomPalette>
-              <ImportMethod>TopLeft</ImportMethod>
-              <ImportAlphaChannel>True</ImportAlphaChannel>
-            </Source>
-          </Sprite>
-          <Sprite Slot="156" Width="97" Height="152" ColorDepth="16" Resolution="Real" AlphaChannel="False">
-            <Source>
-              <FileName>Sprites/Merchant/MerchantSelNoSlippers.png</FileName>
-              <OffsetX>0</OffsetX>
-              <OffsetY>0</OffsetY>
-              <ImportHeight>152</ImportHeight>
-              <ImportWidth>97</ImportWidth>
-              <ImportAsTile>False</ImportAsTile>
-              <Frame>0</Frame>
-              <RemapToGamePalette>False</RemapToGamePalette>
-              <RemapToRoomPalette>False</RemapToRoomPalette>
-              <ImportMethod>TopLeft</ImportMethod>
-              <ImportAlphaChannel>True</ImportAlphaChannel>
-            </Source>
-          </Sprite>
           <Sprite Slot="157" Width="19" Height="22" ColorDepth="16" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Inventory/iBiPrideFlag.png</FileName>
@@ -7271,7 +7226,7 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="162" Width="97" Height="152" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="163" Width="97" Height="152" ColorDepth="16" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/Merchant/MerchantSell.png</FileName>
               <OffsetX>0</OffsetX>
@@ -7282,7 +7237,22 @@ return
               <Frame>0</Frame>
               <RemapToGamePalette>False</RemapToGamePalette>
               <RemapToRoomPalette>False</RemapToRoomPalette>
-              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="164" Width="97" Height="152" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Merchant/MerchantSelNoSlippers.png</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>152</ImportHeight>
+              <ImportWidth>97</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
@@ -7831,7 +7801,7 @@ return
                   </ViewFrame>
                   <ViewFrame>
                     <ID>11</ID>
-                    <Image>154</Image>
+                    <Image>163</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
@@ -7844,7 +7814,7 @@ return
                 <Frames>
                   <ViewFrame>
                     <ID>0</ID>
-                    <Image>154</Image>
+                    <Image>163</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
@@ -8377,7 +8347,7 @@ return
                 <Frames>
                   <ViewFrame>
                     <ID>0</ID>
-                    <Image>156</Image>
+                    <Image>164</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
@@ -8501,9 +8471,9 @@ See KeyboardMovement.txt for details.
             <SubFolders />
             <AudioClips>
               <AudioClip>
+                <ScriptName>aEsophagus</ScriptName>
                 <ID>0</ID>
                 <SourceFileName>Music/esophagus.mp3</SourceFileName>
-                <ScriptName>aEsophagus</ScriptName>
                 <Index>1</Index>
                 <Type>2</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8611,8 +8581,8 @@ See KeyboardMovement.txt for details.
     </AudioClips>
     <AudioClipTypes>
       <AudioClipType>
-        <TypeID>1</TypeID>
         <Name xml:space="preserve">Ambient Sound</Name>
+        <TypeID>1</TypeID>
         <MaxChannels>1</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>
