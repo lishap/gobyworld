@@ -35,7 +35,7 @@
       <AntiGlideMode>True</AntiGlideMode>
       <DebugMode>True</DebugMode>
       <InventoryCursors>True</InventoryCursors>
-      <HandleInvClicksInScript>True</HandleInvClicksInScript>
+      <HandleInvClicksInScript>False</HandleInvClicksInScript>
       <DisplayMultipleInventory>False</DisplayMultipleInventory>
       <ScriptAPIVersion>Highest</ScriptAPIVersion>
       <ScriptCompatLevel>Highest</ScriptCompatLevel>
@@ -8471,9 +8471,9 @@ See KeyboardMovement.txt for details.
             <SubFolders />
             <AudioClips>
               <AudioClip>
+                <ScriptName>aEsophagus</ScriptName>
                 <ID>0</ID>
                 <SourceFileName>Music/esophagus.mp3</SourceFileName>
-                <ScriptName>aEsophagus</ScriptName>
                 <Index>1</Index>
                 <Type>2</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8581,8 +8581,8 @@ See KeyboardMovement.txt for details.
     </AudioClips>
     <AudioClipTypes>
       <AudioClipType>
-        <TypeID>1</TypeID>
         <Name xml:space="preserve">Ambient Sound</Name>
+        <TypeID>1</TypeID>
         <MaxChannels>1</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>
