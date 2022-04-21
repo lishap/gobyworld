@@ -7836,13 +7836,6 @@ return
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
-                  <ViewFrame>
-                    <ID>12</ID>
-                    <Image>155</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
                 </Frames>
               </Loop>
               <Loop>
@@ -7851,7 +7844,7 @@ return
                 <Frames>
                   <ViewFrame>
                     <ID>0</ID>
-                    <Image>0</Image>
+                    <Image>154</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
@@ -8508,9 +8501,9 @@ See KeyboardMovement.txt for details.
             <SubFolders />
             <AudioClips>
               <AudioClip>
-                <ScriptName>aEsophagus</ScriptName>
                 <ID>0</ID>
                 <SourceFileName>Music/esophagus.mp3</SourceFileName>
+                <ScriptName>aEsophagus</ScriptName>
                 <Index>1</Index>
                 <Type>2</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -8618,8 +8611,8 @@ See KeyboardMovement.txt for details.
     </AudioClips>
     <AudioClipTypes>
       <AudioClipType>
-        <Name xml:space="preserve">Ambient Sound</Name>
         <TypeID>1</TypeID>
+        <Name xml:space="preserve">Ambient Sound</Name>
         <MaxChannels>1</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>

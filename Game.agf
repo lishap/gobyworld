@@ -7836,13 +7836,6 @@ return
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
-                  <ViewFrame>
-                    <ID>12</ID>
-                    <Image>155</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
                 </Frames>
               </Loop>
               <Loop>
@@ -7851,7 +7844,7 @@ return
                 <Frames>
                   <ViewFrame>
                     <ID>0</ID>
-                    <Image>0</Image>
+                    <Image>154</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
