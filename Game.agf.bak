@@ -2763,8 +2763,8 @@
             <ThinkingView>0</ThinkingView>
             <BlinkingView>0</BlinkingView>
             <StartingRoom>6</StartingRoom>
-            <StartX>86</StartX>
-            <StartY>155</StartY>
+            <StartX>87</StartX>
+            <StartY>151</StartY>
             <UniformMovementSpeed>True</UniformMovementSpeed>
             <MovementSpeed>3</MovementSpeed>
             <MovementSpeedX>0</MovementSpeedX>
@@ -3256,33 +3256,33 @@ return
     <Fonts>
       <Font>
         <ID>0</ID>
-        <PointSize>0</PointSize>
+        <PointSize>14</PointSize>
         <Name>Normal</Name>
         <OutlineFont>0</OutlineFont>
         <OutlineStyle>None</OutlineStyle>
-        <SourceFilename />
+        <SourceFilename>Fonts/ChunkyDunk.ttf</SourceFilename>
         <SizeMultiplier>1</SizeMultiplier>
         <VerticalOffset>0</VerticalOffset>
         <LineSpacing>0</LineSpacing>
       </Font>
       <Font>
         <ID>1</ID>
-        <PointSize>0</PointSize>
+        <PointSize>14</PointSize>
         <Name>Speech</Name>
         <OutlineFont>2</OutlineFont>
         <OutlineStyle>UseOutlineFont</OutlineStyle>
-        <SourceFilename />
+        <SourceFilename>Fonts/ChunkyDunk.ttf</SourceFilename>
         <SizeMultiplier>1</SizeMultiplier>
         <VerticalOffset>0</VerticalOffset>
         <LineSpacing>0</LineSpacing>
       </Font>
       <Font>
         <ID>2</ID>
-        <PointSize>0</PointSize>
+        <PointSize>14</PointSize>
         <Name>SpeechOutline</Name>
         <OutlineFont>0</OutlineFont>
         <OutlineStyle>None</OutlineStyle>
-        <SourceFilename />
+        <SourceFilename>Fonts/ChunkyDunkOutlin.ttf</SourceFilename>
         <SizeMultiplier>1</SizeMultiplier>
         <VerticalOffset>0</VerticalOffset>
         <LineSpacing>0</LineSpacing>
@@ -3570,6 +3570,11 @@ return
         </GlobalVariable>
         <GlobalVariable>
           <Name>startGame</Name>
+          <Type>bool</Type>
+          <DefaultValue>true</DefaultValue>
+        </GlobalVariable>
+        <GlobalVariable>
+          <Name>malloryFollow</Name>
           <Type>bool</Type>
           <DefaultValue>true</DefaultValue>
         </GlobalVariable>
@@ -7836,6 +7841,126 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
+          <Sprite Slot="177" Width="50" Height="120" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobyWalkRightHandsome.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>120</ImportHeight>
+              <ImportWidth>50</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="178" Width="50" Height="120" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobyWalkRightHandsome.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>120</ImportHeight>
+              <ImportWidth>50</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>1</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="179" Width="50" Height="120" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobyWalkRightHandsome.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>120</ImportHeight>
+              <ImportWidth>50</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>2</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="180" Width="50" Height="120" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobyWalkRightHandsome.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>120</ImportHeight>
+              <ImportWidth>50</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>3</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="181" Width="40" Height="110" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobyWalkBackwardHandsome.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>110</ImportHeight>
+              <ImportWidth>40</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="182" Width="40" Height="110" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobyWalkBackwardHandsome.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>110</ImportHeight>
+              <ImportWidth>40</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>1</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="183" Width="40" Height="110" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobyWalkBackwardHandsome.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>110</ImportHeight>
+              <ImportWidth>40</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>2</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="184" Width="40" Height="110" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobyWalkBackwardHandsome.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>110</ImportHeight>
+              <ImportWidth>40</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>3</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
         </Sprites>
       </SpriteFolder>
     </Sprites>
@@ -9187,6 +9312,108 @@ return
                   <ViewFrame>
                     <ID>3</ID>
                     <Image>175</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>1</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>177</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>178</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>179</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>180</Image>
+                    <Flipped>True</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>2</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>177</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>178</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>179</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>180</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>3</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>181</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>182</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>183</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>184</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
