@@ -2449,8 +2449,8 @@
             <HotspotX>0</HotspotX>
             <HotspotY>0</HotspotY>
             <PlayerStartsWithItem>False</PlayerStartsWithItem>
-            <CursorImage>158</CursorImage>
-            <Image>158</Image>
+            <CursorImage>185</CursorImage>
+            <Image>185</Image>
             <Description xml:space="preserve">Ruby Slippers</Description>
             <Name>iRubySlippers</Name>
             <Properties />
@@ -3121,8 +3121,9 @@ return
 Obies: Most people accidentally swallow gum, but the body we're in... they love swallowing gum.
 return
 @4
-Obies: Sure it does.
-Goby: It's a myth! You all are free!!!!!!! Follow me. 
+Obies: What are you saying, is this game over?
+Goby: Yes, so, I just learned the thing about gum staying in your stomach for seven years is a myth...
+  QuitGame(1);
 return
 ]]></Script>
             <DialogOptions>
@@ -7958,6 +7959,21 @@ return
               <RemapToGamePalette>False</RemapToGamePalette>
               <RemapToRoomPalette>False</RemapToRoomPalette>
               <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="185" Width="25" Height="25" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Inventory/iSlippers.png</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>25</ImportHeight>
+              <ImportWidth>25</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
