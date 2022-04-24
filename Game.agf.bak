@@ -9814,6 +9814,21 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
+          <Sprite Slot="305" Width="97" Height="152" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Merchant/MerchantSell.png</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>152</ImportHeight>
+              <ImportWidth>97</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
         </Sprites>
       </SpriteFolder>
     </Sprites>
@@ -10279,7 +10294,7 @@ return
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>0</ID>
-                    <Image>205</Image>
+                    <Image>305</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                 </Frames>
@@ -10369,7 +10384,7 @@ return
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>11</ID>
-                    <Image>217</Image>
+                    <Image>305</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                 </Frames>
@@ -10382,7 +10397,7 @@ return
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>0</ID>
-                    <Image>217</Image>
+                    <Image>305</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                 </Frames>
