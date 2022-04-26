@@ -4,7 +4,7 @@
   <Component Name="SourceControl" />
   <WorkspaceState>
     <LastBuildConfiguration>Debug</LastBuildConfiguration>
-    <LastBuildGameFileName>DataFile=tloacusg,Windows=tloacusg,_Debug=Gobyworld,</LastBuildGameFileName>
+    <LastBuildGameFileName>DataFile=Gobyworld,Windows=Gobyworld,_Debug=Gobyworld,Web=Gobyworld,</LastBuildGameFileName>
     <RequiresRebuild>False</RequiresRebuild>
   </WorkspaceState>
 </AGSEditorUserData>
