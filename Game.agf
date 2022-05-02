@@ -2976,8 +2976,10 @@ stop
    if (player.InventoryQuantity[iSnowglobes.ID] != 0 && player.InventoryQuantity[iSuit.ID]!=0&&player.InventoryQuantity[iDogFood.ID]!=0)
    {
   dWordle.Start();
-   }
+option-off 3
+   } else {
 CLOWN: Pack your bags, then if you can help me solve this Wordle, I'll give you swim gear. I'm stuck.
+  }
 stop
 ]]></Script>
             <DialogOptions>
