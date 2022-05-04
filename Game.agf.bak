@@ -3032,7 +3032,6 @@ LaLaine: Thank you for saving me Goby! I left a prize in your inventory. I didn'
      player.AddInventory(iBiPrideFlag);
      gIconbar.Visible = true;
      aAlert.Play(eAudioPriorityLow);
-      mouse.SetPosition(10, 10);
 Goby: How did you know I'm bi?
 LaLaine: Your tramp stamp. Honestly just guessed based on stereotypes. 
 Goby: Thank you. How do I leave?
@@ -3100,7 +3099,6 @@ Merchant: I will trade you ruby slippers for it. I'm an ally.
     cMerchant.ChangeView(11);
     cGoby.AddInventory(iRubySlippers);
     aAlert.Play(eAudioPriorityLow);
-     mouse.SetPosition(10, 10);
 Merchant: You can use these to return home at any time. 
 stop
 @3
@@ -12129,6 +12127,30 @@ return
       <ScriptFolder Name="Main">
         <SubFolders />
         <ScriptAndHeaders>
+          <ScriptAndHeader>
+            <ScriptAndHeader_Header>
+              <Script>
+                <FileName>easymirrors.ash</FileName>
+                <Name />
+                <Description />
+                <Author />
+                <Version />
+                <Key>1477909683</Key>
+                <IsHeader>True</IsHeader>
+              </Script>
+            </ScriptAndHeader_Header>
+            <ScriptAndHeader_Script>
+              <Script>
+                <FileName>easymirrors.asc</FileName>
+                <Name />
+                <Description />
+                <Author />
+                <Version />
+                <Key>1477909683</Key>
+                <IsHeader>False</IsHeader>
+              </Script>
+            </ScriptAndHeader_Script>
+          </ScriptAndHeader>
           <ScriptAndHeader>
             <ScriptAndHeader_Header>
               <Script>
