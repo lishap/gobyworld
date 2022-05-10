@@ -10559,69 +10559,24 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="351" Width="320" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
-            <Source>
-              <FileName>Objects/MirrorLeftMask.png</FileName>
-              <OffsetX>0</OffsetX>
-              <OffsetY>0</OffsetY>
-              <ImportHeight>200</ImportHeight>
-              <ImportWidth>320</ImportWidth>
-              <ImportAsTile>False</ImportAsTile>
-              <Frame>0</Frame>
-              <RemapToGamePalette>False</RemapToGamePalette>
-              <RemapToRoomPalette>False</RemapToRoomPalette>
-              <ImportMethod>LeaveAsIs</ImportMethod>
-              <ImportAlphaChannel>True</ImportAlphaChannel>
-            </Source>
-          </Sprite>
-          <Sprite Slot="352" Width="320" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
-            <Source>
-              <FileName>Objects/MirrorLeftMask.png</FileName>
-              <OffsetX>0</OffsetX>
-              <OffsetY>0</OffsetY>
-              <ImportHeight>200</ImportHeight>
-              <ImportWidth>320</ImportWidth>
-              <ImportAsTile>False</ImportAsTile>
-              <Frame>0</Frame>
-              <RemapToGamePalette>False</RemapToGamePalette>
-              <RemapToRoomPalette>False</RemapToRoomPalette>
-              <ImportMethod>PaletteIndex0</ImportMethod>
-              <ImportAlphaChannel>True</ImportAlphaChannel>
-            </Source>
-          </Sprite>
-          <Sprite Slot="353" Width="320" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
-            <Source>
-              <FileName>Objects/GobyBedroomMirrors2.png</FileName>
-              <OffsetX>0</OffsetX>
-              <OffsetY>0</OffsetY>
-              <ImportHeight>200</ImportHeight>
-              <ImportWidth>320</ImportWidth>
-              <ImportAsTile>False</ImportAsTile>
-              <Frame>0</Frame>
-              <RemapToGamePalette>False</RemapToGamePalette>
-              <RemapToRoomPalette>False</RemapToRoomPalette>
-              <ImportMethod>TopLeft</ImportMethod>
-              <ImportAlphaChannel>True</ImportAlphaChannel>
-            </Source>
-          </Sprite>
-          <Sprite Slot="354" Width="320" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
-            <Source>
-              <FileName>Objects/MirrorLeftMask.png</FileName>
-              <OffsetX>0</OffsetX>
-              <OffsetY>0</OffsetY>
-              <ImportHeight>200</ImportHeight>
-              <ImportWidth>320</ImportWidth>
-              <ImportAsTile>False</ImportAsTile>
-              <Frame>0</Frame>
-              <RemapToGamePalette>False</RemapToGamePalette>
-              <RemapToRoomPalette>False</RemapToRoomPalette>
-              <ImportMethod>TopLeft</ImportMethod>
-              <ImportAlphaChannel>True</ImportAlphaChannel>
-            </Source>
-          </Sprite>
           <Sprite Slot="355" Width="320" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Objects/MirrorLeftMask1.png</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="351" Width="320" Height="200" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Objects/MirrorLeftMask.png</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
               <ImportHeight>200</ImportHeight>
@@ -12204,7 +12159,7 @@ return
           </View>
           <View>
             <ID>16</ID>
-            <Name>ovebronPoster</Name>
+            <Name>vLebronPoster</Name>
             <Loops>
               <Loop>
                 <ID>0</ID>
