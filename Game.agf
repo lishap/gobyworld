@@ -12,7 +12,7 @@
       <AntiAliasFonts>False</AntiAliasFonts>
       <AntiGlideMode>True</AntiGlideMode>
       <AttachDataToExe>True</AttachDataToExe>
-      <AudioIndexer>9</AudioIndexer>
+      <AudioIndexer>10</AudioIndexer>
       <AutoMoveInWalkMode>True</AutoMoveInWalkMode>
       <BackwardsText>False</BackwardsText>
       <BinaryFilesInSourceControl>True</BinaryFilesInSourceControl>
@@ -716,6 +716,10 @@
           <UnloadedRoom>
             <Description>In</Description>
             <Number>16</Number>
+          </UnloadedRoom>
+          <UnloadedRoom>
+            <Description xml:space="preserve">Esophagus Fall</Description>
+            <Number>17</Number>
           </UnloadedRoom>
         </UnloadedRooms>
       </UnloadedRoomFolder>
@@ -10589,6 +10593,111 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
+          <Sprite Slot="352" Width="40" Height="110" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobyFalling.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>110</ImportHeight>
+              <ImportWidth>40</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="353" Width="40" Height="110" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobyFalling.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>110</ImportHeight>
+              <ImportWidth>40</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>1</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="354" Width="40" Height="110" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobyFalling.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>110</ImportHeight>
+              <ImportWidth>40</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>2</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="356" Width="40" Height="110" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/gobyStanding.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>110</ImportHeight>
+              <ImportWidth>40</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="357" Width="40" Height="110" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/gobyStanding.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>110</ImportHeight>
+              <ImportWidth>40</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>1</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="358" Width="40" Height="110" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/gobyStanding.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>110</ImportHeight>
+              <ImportWidth>40</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>2</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="359" Width="40" Height="110" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/gobyStanding.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>110</ImportHeight>
+              <ImportWidth>40</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>3</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>TopLeft</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
         </Sprites>
       </SpriteFolder>
     </Sprites>
@@ -10881,7 +10990,7 @@ return
           </View>
           <View>
             <ID>4</ID>
-            <Name>cGobySwim</Name>
+            <Name>vGobySwim</Name>
             <Loops>
               <Loop>
                 <ID>0</ID>
@@ -12232,12 +12341,83 @@ return
               </Loop>
             </Loops>
           </View>
+          <View>
+            <ID>17</ID>
+            <Name>vGobyFall</Name>
+            <Loops>
+              <Loop>
+                <ID>0</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>0</ID>
+                    <Image>352</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>1</ID>
+                    <Image>353</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>2</ID>
+                    <Image>354</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+            </Loops>
+          </View>
+          <View>
+            <ID>18</ID>
+            <Name>vGobyUp</Name>
+            <Loops>
+              <Loop>
+                <ID>0</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>0</ID>
+                    <Image>356</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>1</ID>
+                    <Image>357</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>2</ID>
+                    <Image>358</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>3</ID>
+                    <Image>359</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+            </Loops>
+          </View>
         </Views>
       </ViewFolder>
     </Views>
-    <DeletedViews>
-      <ViewID>17</ViewID>
-    </DeletedViews>
+    <DeletedViews />
     <Scripts>
       <ScriptFolder Name="Main">
         <SubFolders />
@@ -12455,6 +12635,19 @@ See KeyboardMovement.txt for details.
                 <SourceFileName>Sounds/clicj.wav</SourceFileName>
                 <Type>3</Type>
                 <FileLastModifiedDate>2022-05-04 04:58:59Z</FileLastModifiedDate>
+              </AudioClip>
+              <AudioClip>
+                <BundlingType>InGameEXE</BundlingType>
+                <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
+                <DefaultVolume>-1</DefaultVolume>
+                <FileType>WAV</FileType>
+                <ID>7</ID>
+                <Index>10</Index>
+                <ScriptName>aKissing</ScriptName>
+                <SourceFileName>Sounds/kissing.wav</SourceFileName>
+                <Type>3</Type>
+                <FileLastModifiedDate>2022-06-01 19:34:30Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
