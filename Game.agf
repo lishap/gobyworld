@@ -814,7 +814,7 @@
               <ID>1</ID>
               <Left>0</Left>
               <Name>gIconbar</Name>
-              <OnClick />
+              <OnClick>gIconbar_OnClick</OnClick>
               <PopupStyle>MouseYPos</PopupStyle>
               <PopupYPos>13</PopupYPos>
               <Top>0</Top>
