@@ -1600,9 +1600,9 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>18</Height>
+                <Height>20</Height>
                 <ID>0</ID>
-                <Image>0</Image>
+                <Image>443</Image>
                 <Left>112</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
@@ -1615,7 +1615,7 @@
                 <TextColor>0</TextColor>
                 <Top>38</Top>
                 <Visible>True</Visible>
-                <Width>17</Width>
+                <Width>20</Width>
                 <ZOrder>0</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -1624,9 +1624,9 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>19</Height>
+                <Height>20</Height>
                 <ID>1</ID>
-                <Image>0</Image>
+                <Image>443</Image>
                 <Left>132</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
@@ -1637,9 +1637,9 @@
                 <Text />
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>37</Top>
+                <Top>38</Top>
                 <Visible>True</Visible>
-                <Width>17</Width>
+                <Width>20</Width>
                 <ZOrder>1</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -1648,9 +1648,9 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>17</Height>
+                <Height>20</Height>
                 <ID>2</ID>
-                <Image>0</Image>
+                <Image>443</Image>
                 <Left>152</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
@@ -1663,7 +1663,7 @@
                 <TextColor>0</TextColor>
                 <Top>38</Top>
                 <Visible>True</Visible>
-                <Width>17</Width>
+                <Width>20</Width>
                 <ZOrder>2</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -1672,9 +1672,9 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>18</Height>
+                <Height>20</Height>
                 <ID>3</ID>
-                <Image>0</Image>
+                <Image>443</Image>
                 <Left>172</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
@@ -1687,7 +1687,7 @@
                 <TextColor>0</TextColor>
                 <Top>38</Top>
                 <Visible>True</Visible>
-                <Width>18</Width>
+                <Width>20</Width>
                 <ZOrder>3</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -1696,9 +1696,9 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>17</Height>
+                <Height>20</Height>
                 <ID>4</ID>
-                <Image>0</Image>
+                <Image>443</Image>
                 <Left>192</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
@@ -1711,7 +1711,7 @@
                 <TextColor>0</TextColor>
                 <Top>38</Top>
                 <Visible>True</Visible>
-                <Width>17</Width>
+                <Width>20</Width>
                 <ZOrder>4</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -1720,9 +1720,9 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>17</Height>
+                <Height>20</Height>
                 <ID>5</ID>
-                <Image>0</Image>
+                <Image>443</Image>
                 <Left>112</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
@@ -1735,7 +1735,7 @@
                 <TextColor>0</TextColor>
                 <Top>58</Top>
                 <Visible>True</Visible>
-                <Width>17</Width>
+                <Width>20</Width>
                 <ZOrder>5</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -1744,9 +1744,9 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>17</Height>
+                <Height>20</Height>
                 <ID>6</ID>
-                <Image>0</Image>
+                <Image>443</Image>
                 <Left>132</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
@@ -1759,7 +1759,7 @@
                 <TextColor>0</TextColor>
                 <Top>58</Top>
                 <Visible>True</Visible>
-                <Width>17</Width>
+                <Width>20</Width>
                 <ZOrder>6</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -1768,10 +1768,10 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>18</Height>
+                <Height>20</Height>
                 <ID>7</ID>
-                <Image>0</Image>
-                <Left>153</Left>
+                <Image>443</Image>
+                <Left>152</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>Button8</Name>
@@ -1781,9 +1781,9 @@
                 <Text />
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>57</Top>
+                <Top>58</Top>
                 <Visible>True</Visible>
-                <Width>17</Width>
+                <Width>20</Width>
                 <ZOrder>7</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -1792,9 +1792,9 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>18</Height>
+                <Height>20</Height>
                 <ID>8</ID>
-                <Image>0</Image>
+                <Image>443</Image>
                 <Left>172</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
@@ -1807,7 +1807,7 @@
                 <TextColor>0</TextColor>
                 <Top>58</Top>
                 <Visible>True</Visible>
-                <Width>18</Width>
+                <Width>20</Width>
                 <ZOrder>8</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -1816,9 +1816,9 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>18</Height>
+                <Height>20</Height>
                 <ID>9</ID>
-                <Image>0</Image>
+                <Image>443</Image>
                 <Left>192</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
@@ -1831,7 +1831,7 @@
                 <TextColor>0</TextColor>
                 <Top>58</Top>
                 <Visible>True</Visible>
-                <Width>17</Width>
+                <Width>20</Width>
                 <ZOrder>9</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -1840,10 +1840,10 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>19</Height>
+                <Height>20</Height>
                 <ID>10</ID>
-                <Image>0</Image>
-                <Left>111</Left>
+                <Image>443</Image>
+                <Left>112</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>Button11</Name>
@@ -1853,9 +1853,9 @@
                 <Text />
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>77</Top>
+                <Top>78</Top>
                 <Visible>True</Visible>
-                <Width>18</Width>
+                <Width>20</Width>
                 <ZOrder>10</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -1864,10 +1864,10 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>18</Height>
+                <Height>20</Height>
                 <ID>11</ID>
-                <Image>0</Image>
-                <Left>133</Left>
+                <Image>443</Image>
+                <Left>132</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>Button12</Name>
@@ -1877,9 +1877,9 @@
                 <Text />
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>77</Top>
+                <Top>78</Top>
                 <Visible>True</Visible>
-                <Width>16</Width>
+                <Width>20</Width>
                 <ZOrder>11</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -1888,9 +1888,9 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>18</Height>
+                <Height>20</Height>
                 <ID>12</ID>
-                <Image>0</Image>
+                <Image>443</Image>
                 <Left>152</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
@@ -1903,7 +1903,7 @@
                 <TextColor>0</TextColor>
                 <Top>78</Top>
                 <Visible>True</Visible>
-                <Width>17</Width>
+                <Width>20</Width>
                 <ZOrder>12</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -1912,9 +1912,9 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>18</Height>
+                <Height>20</Height>
                 <ID>13</ID>
-                <Image>0</Image>
+                <Image>443</Image>
                 <Left>172</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
@@ -1927,7 +1927,7 @@
                 <TextColor>0</TextColor>
                 <Top>78</Top>
                 <Visible>True</Visible>
-                <Width>17</Width>
+                <Width>20</Width>
                 <ZOrder>13</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -1936,9 +1936,9 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>18</Height>
+                <Height>20</Height>
                 <ID>14</ID>
-                <Image>0</Image>
+                <Image>443</Image>
                 <Left>192</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
@@ -1951,7 +1951,7 @@
                 <TextColor>0</TextColor>
                 <Top>78</Top>
                 <Visible>True</Visible>
-                <Width>17</Width>
+                <Width>20</Width>
                 <ZOrder>14</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -1960,9 +1960,9 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>18</Height>
+                <Height>20</Height>
                 <ID>15</ID>
-                <Image>0</Image>
+                <Image>443</Image>
                 <Left>112</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
@@ -1975,7 +1975,7 @@
                 <TextColor>0</TextColor>
                 <Top>97</Top>
                 <Visible>True</Visible>
-                <Width>17</Width>
+                <Width>20</Width>
                 <ZOrder>15</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -1984,10 +1984,10 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>18</Height>
+                <Height>20</Height>
                 <ID>16</ID>
-                <Image>0</Image>
-                <Left>133</Left>
+                <Image>443</Image>
+                <Left>132</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>Button17</Name>
@@ -1997,9 +1997,9 @@
                 <Text />
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>98</Top>
+                <Top>97</Top>
                 <Visible>True</Visible>
-                <Width>17</Width>
+                <Width>20</Width>
                 <ZOrder>16</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -2008,9 +2008,9 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>17</Height>
+                <Height>20</Height>
                 <ID>17</ID>
-                <Image>0</Image>
+                <Image>443</Image>
                 <Left>152</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
@@ -2021,9 +2021,9 @@
                 <Text />
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>98</Top>
+                <Top>97</Top>
                 <Visible>True</Visible>
-                <Width>17</Width>
+                <Width>20</Width>
                 <ZOrder>17</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -2032,9 +2032,9 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>17</Height>
+                <Height>20</Height>
                 <ID>18</ID>
-                <Image>0</Image>
+                <Image>443</Image>
                 <Left>172</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
@@ -2045,9 +2045,9 @@
                 <Text />
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>98</Top>
+                <Top>97</Top>
                 <Visible>True</Visible>
-                <Width>17</Width>
+                <Width>20</Width>
                 <ZOrder>18</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -2056,9 +2056,9 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>18</Height>
+                <Height>20</Height>
                 <ID>19</ID>
-                <Image>0</Image>
+                <Image>443</Image>
                 <Left>192</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
@@ -2071,7 +2071,7 @@
                 <TextColor>0</TextColor>
                 <Top>97</Top>
                 <Visible>True</Visible>
-                <Width>17</Width>
+                <Width>20</Width>
                 <ZOrder>19</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -2080,10 +2080,10 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>17</Height>
+                <Height>20</Height>
                 <ID>20</ID>
-                <Image>0</Image>
-                <Left>111</Left>
+                <Image>443</Image>
+                <Left>112</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>Button21</Name>
@@ -2095,7 +2095,7 @@
                 <TextColor>0</TextColor>
                 <Top>118</Top>
                 <Visible>True</Visible>
-                <Width>19</Width>
+                <Width>20</Width>
                 <ZOrder>20</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -2104,9 +2104,9 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>17</Height>
+                <Height>20</Height>
                 <ID>21</ID>
-                <Image>0</Image>
+                <Image>443</Image>
                 <Left>132</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
@@ -2119,7 +2119,7 @@
                 <TextColor>0</TextColor>
                 <Top>118</Top>
                 <Visible>True</Visible>
-                <Width>18</Width>
+                <Width>20</Width>
                 <ZOrder>21</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -2128,9 +2128,9 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>18</Height>
+                <Height>20</Height>
                 <ID>22</ID>
-                <Image>0</Image>
+                <Image>443</Image>
                 <Left>152</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
@@ -2141,9 +2141,9 @@
                 <Text />
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>117</Top>
+                <Top>118</Top>
                 <Visible>True</Visible>
-                <Width>17</Width>
+                <Width>20</Width>
                 <ZOrder>22</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -2152,10 +2152,10 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>18</Height>
+                <Height>20</Height>
                 <ID>23</ID>
-                <Image>0</Image>
-                <Left>173</Left>
+                <Image>443</Image>
+                <Left>172</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>Button24</Name>
@@ -2165,9 +2165,9 @@
                 <Text />
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>117</Top>
+                <Top>118</Top>
                 <Visible>True</Visible>
-                <Width>18</Width>
+                <Width>20</Width>
                 <ZOrder>23</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -2176,9 +2176,9 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>18</Height>
+                <Height>20</Height>
                 <ID>24</ID>
-                <Image>0</Image>
+                <Image>443</Image>
                 <Left>192</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
@@ -2191,7 +2191,7 @@
                 <TextColor>0</TextColor>
                 <Top>118</Top>
                 <Visible>True</Visible>
-                <Width>17</Width>
+                <Width>20</Width>
                 <ZOrder>24</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -2200,9 +2200,9 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>17</Height>
+                <Height>20</Height>
                 <ID>25</ID>
-                <Image>0</Image>
+                <Image>443</Image>
                 <Left>112</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
@@ -2215,7 +2215,7 @@
                 <TextColor>0</TextColor>
                 <Top>138</Top>
                 <Visible>True</Visible>
-                <Width>17</Width>
+                <Width>20</Width>
                 <ZOrder>25</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -2224,9 +2224,9 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>17</Height>
+                <Height>20</Height>
                 <ID>26</ID>
-                <Image>0</Image>
+                <Image>443</Image>
                 <Left>132</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
@@ -2239,7 +2239,7 @@
                 <TextColor>0</TextColor>
                 <Top>138</Top>
                 <Visible>True</Visible>
-                <Width>17</Width>
+                <Width>20</Width>
                 <ZOrder>26</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -2248,9 +2248,9 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>18</Height>
+                <Height>20</Height>
                 <ID>27</ID>
-                <Image>0</Image>
+                <Image>443</Image>
                 <Left>152</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
@@ -2261,9 +2261,9 @@
                 <Text />
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>137</Top>
+                <Top>138</Top>
                 <Visible>True</Visible>
-                <Width>18</Width>
+                <Width>20</Width>
                 <ZOrder>27</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -2272,10 +2272,10 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>18</Height>
+                <Height>20</Height>
                 <ID>28</ID>
-                <Image>0</Image>
-                <Left>173</Left>
+                <Image>443</Image>
+                <Left>172</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
                 <Name>Button29</Name>
@@ -2285,9 +2285,9 @@
                 <Text />
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>0</TextColor>
-                <Top>137</Top>
+                <Top>138</Top>
                 <Visible>True</Visible>
-                <Width>17</Width>
+                <Width>20</Width>
                 <ZOrder>28</ZOrder>
               </GUIButton>
               <GUIButton>
@@ -2296,9 +2296,9 @@
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
-                <Height>18</Height>
+                <Height>20</Height>
                 <ID>29</ID>
-                <Image>0</Image>
+                <Image>443</Image>
                 <Left>192</Left>
                 <Locked>False</Locked>
                 <MouseoverImage>0</MouseoverImage>
@@ -2311,7 +2311,7 @@
                 <TextColor>0</TextColor>
                 <Top>138</Top>
                 <Visible>True</Visible>
-                <Width>17</Width>
+                <Width>20</Width>
                 <ZOrder>29</ZOrder>
               </GUIButton>
             </Controls>
@@ -11952,6 +11952,21 @@ return
           <Sprite Slot="442" Width="20" Height="20" ColorDepth="32" Resolution="Real" AlphaChannel="True">
             <Source>
               <FileName>Inventory/iJeans.png</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>20</ImportHeight>
+              <ImportWidth>20</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="443" Width="20" Height="20" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+            <Source>
+              <FileName>GUI/wordleButton.png</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
               <ImportHeight>20</ImportHeight>
