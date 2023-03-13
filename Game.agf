@@ -838,7 +838,7 @@
                 <MouseoverImage>2109</MouseoverImage>
                 <Name>btnIconInteract</Name>
                 <NewModeNumber>2</NewModeNumber>
-                <OnClick />
+                <OnClick>btnIconInteract_OnClick</OnClick>
                 <PushedImage>2111</PushedImage>
                 <Text />
                 <TextAlignment>TopCenter</TextAlignment>
