@@ -13734,13 +13734,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="561" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="561" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>0</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -13749,13 +13749,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="562" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="562" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>1</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -13764,13 +13764,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="563" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="563" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>2</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -13779,13 +13779,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="564" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="564" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>3</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -13794,13 +13794,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="565" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="565" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>4</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -13809,13 +13809,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="566" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="566" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>5</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -13824,13 +13824,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="567" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="567" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>6</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -13839,13 +13839,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="568" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="568" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>7</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -13854,13 +13854,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="569" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="569" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>8</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -13869,13 +13869,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="570" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="570" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>9</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -13884,13 +13884,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="571" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="571" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>10</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -13899,13 +13899,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="572" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="572" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>11</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -13914,13 +13914,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="573" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="573" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>12</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -13929,13 +13929,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="574" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="574" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>13</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -13944,13 +13944,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="575" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="575" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>14</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -13959,13 +13959,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="576" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="576" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>15</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -13974,13 +13974,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="577" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="577" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>16</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -13989,13 +13989,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="578" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="578" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>17</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -14004,13 +14004,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="579" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="579" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>18</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -14019,13 +14019,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="580" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="580" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>19</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -14034,13 +14034,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="581" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="581" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>20</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -14049,13 +14049,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="582" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="582" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>21</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -14064,13 +14064,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="583" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="583" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>22</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -14079,13 +14079,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="584" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="584" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>23</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -14094,13 +14094,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="585" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="585" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>24</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -14109,13 +14109,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="586" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="586" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>25</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -14124,13 +14124,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="587" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="587" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>26</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -14139,13 +14139,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="588" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="588" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>27</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -14154,13 +14154,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="589" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="589" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>28</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -14169,13 +14169,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="590" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="590" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>29</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -14184,13 +14184,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="591" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="591" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>30</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -14199,13 +14199,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="592" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="592" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>31</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -14214,13 +14214,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="593" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="593" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>32</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -14229,13 +14229,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="594" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="594" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>33</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -14244,13 +14244,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="595" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="595" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>34</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -14259,13 +14259,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="596" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="596" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>35</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -14274,13 +14274,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="597" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="597" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>36</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -14289,13 +14289,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="598" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="598" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>37</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -14304,13 +14304,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="599" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="599" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>38</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -14319,13 +14319,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="600" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="600" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>39</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -14334,13 +14334,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="601" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="601" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>40</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
@@ -14349,13 +14349,13 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="602" Width="48" Height="41" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="602" Width="112" Height="112" ColorDepth="32" Resolution="Real" AlphaChannel="False">
             <Source>
               <FileName>Sprites/ClownCoin/ClownSpin.gif</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
-              <ImportHeight>41</ImportHeight>
-              <ImportWidth>48</ImportWidth>
+              <ImportHeight>112</ImportHeight>
+              <ImportWidth>112</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>41</Frame>
               <RemapToGamePalette>True</RemapToGamePalette>
