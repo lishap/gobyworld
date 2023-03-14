@@ -12174,6 +12174,1566 @@ return
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
+          <Sprite Slot="457" Width="40" Height="132" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobyDrierWalkBackward.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>132</ImportHeight>
+              <ImportWidth>40</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="458" Width="40" Height="132" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobyDrierWalkBackward.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>132</ImportHeight>
+              <ImportWidth>40</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>1</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="459" Width="40" Height="132" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobyDrierWalkBackward.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>132</ImportHeight>
+              <ImportWidth>40</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>2</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="460" Width="40" Height="132" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobyDrierWalkBackward.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>132</ImportHeight>
+              <ImportWidth>40</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>3</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="461" Width="40" Height="121" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobyDrierWalkForward.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>121</ImportHeight>
+              <ImportWidth>40</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="462" Width="40" Height="121" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobyDrierWalkForward.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>121</ImportHeight>
+              <ImportWidth>40</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>1</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="463" Width="40" Height="121" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobyDrierWalkForward.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>121</ImportHeight>
+              <ImportWidth>40</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>2</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="464" Width="40" Height="121" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobyDrierWalkForward.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>121</ImportHeight>
+              <ImportWidth>40</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>3</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="465" Width="50" Height="120" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobyDrierWalkRight.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>120</ImportHeight>
+              <ImportWidth>50</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="466" Width="50" Height="120" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobyDrierWalkRight.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>120</ImportHeight>
+              <ImportWidth>50</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>1</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="467" Width="50" Height="120" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobyDrierWalkRight.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>120</ImportHeight>
+              <ImportWidth>50</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>2</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="468" Width="50" Height="120" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobyDrierWalkRight.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>120</ImportHeight>
+              <ImportWidth>50</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>3</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="469" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="470" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>1</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="471" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>2</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="472" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>3</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="473" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>4</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="474" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>5</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="475" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>6</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="476" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>7</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="477" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>8</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="478" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>9</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="479" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>10</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="480" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>11</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="481" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>12</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="482" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>13</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="483" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>14</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="484" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>15</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="485" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>16</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="486" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>17</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="487" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>18</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="488" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>19</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="489" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>20</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="490" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>21</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="491" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>22</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="492" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>23</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="493" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>24</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="494" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>25</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="495" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>26</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="496" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>27</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="497" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>28</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="498" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>29</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="499" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>30</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="500" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>31</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="501" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>32</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="502" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>33</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="503" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>34</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="504" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>35</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="505" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>36</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="506" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>37</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="507" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>38</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="508" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>39</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="509" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>40</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="510" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>41</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="511" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>42</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="512" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>43</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="513" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>44</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="514" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>45</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="515" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>46</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="516" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>47</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="517" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>48</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="518" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>49</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="519" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>50</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="520" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>51</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="521" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>52</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="522" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>53</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="523" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>54</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="524" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>55</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="525" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>56</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="526" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>57</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="527" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>58</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="528" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>59</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="529" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>60</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="530" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>61</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="531" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>62</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="532" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>63</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="533" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>64</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="534" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>65</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="535" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>66</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="536" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>67</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="537" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>68</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="538" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>69</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="539" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>70</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="540" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>71</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="541" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>72</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="542" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>73</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="543" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>74</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="544" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>75</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="545" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>76</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="546" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>77</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="547" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>78</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="548" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>79</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="549" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>80</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="550" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>81</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="551" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>82</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="552" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>83</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="553" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>84</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="554" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>85</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="555" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>86</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="556" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>87</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="557" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>88</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="558" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>89</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="559" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>90</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="560" Width="66" Height="143" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Sprites/Goby/GobySmashSnowglobeSix.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>143</ImportHeight>
+              <ImportWidth>66</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>91</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
         </Sprites>
       </SpriteFolder>
     </Sprites>
@@ -12934,28 +14494,28 @@ return
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>0</ID>
-                    <Image>235</Image>
+                    <Image>461</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>1</ID>
-                    <Image>236</Image>
+                    <Image>462</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>2</ID>
-                    <Image>237</Image>
+                    <Image>463</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>3</ID>
-                    <Image>238</Image>
+                    <Image>464</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                 </Frames>
@@ -12968,28 +14528,28 @@ return
                     <Delay>0</Delay>
                     <Flipped>True</Flipped>
                     <ID>0</ID>
-                    <Image>239</Image>
+                    <Image>465</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>True</Flipped>
                     <ID>1</ID>
-                    <Image>240</Image>
+                    <Image>466</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>True</Flipped>
                     <ID>2</ID>
-                    <Image>241</Image>
+                    <Image>467</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>True</Flipped>
                     <ID>3</ID>
-                    <Image>242</Image>
+                    <Image>468</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                 </Frames>
@@ -13002,28 +14562,28 @@ return
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>0</ID>
-                    <Image>239</Image>
+                    <Image>465</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>1</ID>
-                    <Image>240</Image>
+                    <Image>466</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>2</ID>
-                    <Image>241</Image>
+                    <Image>467</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>3</ID>
-                    <Image>242</Image>
+                    <Image>468</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                 </Frames>
@@ -13036,28 +14596,28 @@ return
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>0</ID>
-                    <Image>243</Image>
+                    <Image>457</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>1</ID>
-                    <Image>244</Image>
+                    <Image>458</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>2</ID>
-                    <Image>245</Image>
+                    <Image>459</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>3</ID>
-                    <Image>246</Image>
+                    <Image>460</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                 </Frames>
@@ -13086,105 +14646,644 @@ return
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>0</ID>
-                    <Image>247</Image>
+                    <Image>469</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>1</ID>
-                    <Image>248</Image>
+                    <Image>470</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>2</ID>
-                    <Image>249</Image>
+                    <Image>471</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>3</ID>
-                    <Image>250</Image>
+                    <Image>472</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>4</ID>
-                    <Image>251</Image>
+                    <Image>473</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>5</ID>
-                    <Image>252</Image>
+                    <Image>474</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>6</ID>
-                    <Image>253</Image>
+                    <Image>475</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>7</ID>
-                    <Image>254</Image>
+                    <Image>476</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>8</ID>
-                    <Image>255</Image>
+                    <Image>477</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>9</ID>
-                    <Image>256</Image>
+                    <Image>478</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>10</ID>
-                    <Image>257</Image>
+                    <Image>479</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>11</ID>
-                    <Image>258</Image>
+                    <Image>480</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>12</ID>
-                    <Image>259</Image>
+                    <Image>481</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>13</ID>
-                    <Image>260</Image>
+                    <Image>482</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>14</ID>
-                    <Image>261</Image>
+                    <Image>483</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>15</ID>
+                    <Image>484</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>16</ID>
+                    <Image>485</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>17</ID>
+                    <Image>486</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>18</ID>
+                    <Image>487</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>19</ID>
+                    <Image>488</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>20</ID>
+                    <Image>489</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>21</ID>
+                    <Image>490</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>22</ID>
+                    <Image>491</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>23</ID>
+                    <Image>492</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>24</ID>
+                    <Image>493</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>25</ID>
+                    <Image>494</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>26</ID>
+                    <Image>495</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>27</ID>
+                    <Image>496</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>28</ID>
+                    <Image>497</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>29</ID>
+                    <Image>498</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>30</ID>
+                    <Image>499</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>31</ID>
+                    <Image>500</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>32</ID>
+                    <Image>501</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>33</ID>
+                    <Image>502</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>34</ID>
+                    <Image>503</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>35</ID>
+                    <Image>504</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>36</ID>
+                    <Image>505</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>37</ID>
+                    <Image>506</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>38</ID>
+                    <Image>507</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>39</ID>
+                    <Image>508</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>40</ID>
+                    <Image>509</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>41</ID>
+                    <Image>510</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>42</ID>
+                    <Image>511</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>43</ID>
+                    <Image>512</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>44</ID>
+                    <Image>513</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>45</ID>
+                    <Image>514</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>46</ID>
+                    <Image>515</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>47</ID>
+                    <Image>516</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>48</ID>
+                    <Image>517</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>49</ID>
+                    <Image>518</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>50</ID>
+                    <Image>519</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>51</ID>
+                    <Image>520</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>52</ID>
+                    <Image>521</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>53</ID>
+                    <Image>522</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>54</ID>
+                    <Image>523</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>55</ID>
+                    <Image>524</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>56</ID>
+                    <Image>525</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>57</ID>
+                    <Image>526</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>58</ID>
+                    <Image>527</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>59</ID>
+                    <Image>528</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>60</ID>
+                    <Image>529</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>61</ID>
+                    <Image>530</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>62</ID>
+                    <Image>531</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>63</ID>
+                    <Image>532</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>64</ID>
+                    <Image>533</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>65</ID>
+                    <Image>534</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>66</ID>
+                    <Image>535</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>67</ID>
+                    <Image>536</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>68</ID>
+                    <Image>537</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>69</ID>
+                    <Image>538</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>70</ID>
+                    <Image>539</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>71</ID>
+                    <Image>540</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>72</ID>
+                    <Image>541</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>73</ID>
+                    <Image>542</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>74</ID>
+                    <Image>543</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>75</ID>
+                    <Image>544</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>76</ID>
+                    <Image>545</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>77</ID>
+                    <Image>546</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>78</ID>
+                    <Image>547</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>79</ID>
+                    <Image>548</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>80</ID>
+                    <Image>549</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>81</ID>
+                    <Image>550</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>82</ID>
+                    <Image>551</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>83</ID>
+                    <Image>552</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>84</ID>
+                    <Image>553</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>85</ID>
+                    <Image>554</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>86</ID>
+                    <Image>555</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>87</ID>
+                    <Image>556</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>88</ID>
+                    <Image>557</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>89</ID>
+                    <Image>558</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>90</ID>
+                    <Image>559</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>91</ID>
+                    <Image>560</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                 </Frames>
