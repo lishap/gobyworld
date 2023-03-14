@@ -2324,13 +2324,13 @@
         <SubFolders />
         <InventoryItems>
           <InventoryItem>
-            <CursorImage>289</CursorImage>
-            <Description xml:space="preserve">Snowglobe Collection</Description>
+            <CursorImage>360</CursorImage>
+            <Description>Snowglobe0</Description>
             <HotspotX>0</HotspotX>
             <HotspotY>0</HotspotY>
             <ID>1</ID>
-            <Image>289</Image>
-            <Name>iSnowglobes</Name>
+            <Image>360</Image>
+            <Name>iSnowglobe0</Name>
             <PlayerStartsWithItem>False</PlayerStartsWithItem>
             <Properties />
             <Interactions>
@@ -2493,6 +2493,96 @@
             <ID>10</ID>
             <Image>442</Image>
             <Name>iJeans</Name>
+            <PlayerStartsWithItem>False</PlayerStartsWithItem>
+            <Properties />
+            <Interactions>
+              <Event Index="0" />
+              <Event Index="1" />
+              <Event Index="2" />
+              <Event Index="3" />
+              <Event Index="4" />
+            </Interactions>
+          </InventoryItem>
+          <InventoryItem>
+            <CursorImage>370</CursorImage>
+            <Description>Snowglobe1</Description>
+            <HotspotX>0</HotspotX>
+            <HotspotY>0</HotspotY>
+            <ID>11</ID>
+            <Image>370</Image>
+            <Name>iSnowglobe1</Name>
+            <PlayerStartsWithItem>False</PlayerStartsWithItem>
+            <Properties />
+            <Interactions>
+              <Event Index="0" />
+              <Event Index="1" />
+              <Event Index="2" />
+              <Event Index="3" />
+              <Event Index="4" />
+            </Interactions>
+          </InventoryItem>
+          <InventoryItem>
+            <CursorImage>380</CursorImage>
+            <Description>snowglobe2</Description>
+            <HotspotX>0</HotspotX>
+            <HotspotY>0</HotspotY>
+            <ID>12</ID>
+            <Image>380</Image>
+            <Name>iSnowglobe2</Name>
+            <PlayerStartsWithItem>False</PlayerStartsWithItem>
+            <Properties />
+            <Interactions>
+              <Event Index="0" />
+              <Event Index="1" />
+              <Event Index="2" />
+              <Event Index="3" />
+              <Event Index="4" />
+            </Interactions>
+          </InventoryItem>
+          <InventoryItem>
+            <CursorImage>390</CursorImage>
+            <Description>Snowglobe3</Description>
+            <HotspotX>0</HotspotX>
+            <HotspotY>0</HotspotY>
+            <ID>13</ID>
+            <Image>390</Image>
+            <Name>iSnowglobe3</Name>
+            <PlayerStartsWithItem>False</PlayerStartsWithItem>
+            <Properties />
+            <Interactions>
+              <Event Index="0" />
+              <Event Index="1" />
+              <Event Index="2" />
+              <Event Index="3" />
+              <Event Index="4" />
+            </Interactions>
+          </InventoryItem>
+          <InventoryItem>
+            <CursorImage>400</CursorImage>
+            <Description>Snowglobe4</Description>
+            <HotspotX>0</HotspotX>
+            <HotspotY>0</HotspotY>
+            <ID>14</ID>
+            <Image>400</Image>
+            <Name>iSnowglobe4</Name>
+            <PlayerStartsWithItem>False</PlayerStartsWithItem>
+            <Properties />
+            <Interactions>
+              <Event Index="0" />
+              <Event Index="1" />
+              <Event Index="2" />
+              <Event Index="3" />
+              <Event Index="4" />
+            </Interactions>
+          </InventoryItem>
+          <InventoryItem>
+            <CursorImage>410</CursorImage>
+            <Description>Snowglobe5</Description>
+            <HotspotX>0</HotspotX>
+            <HotspotY>0</HotspotY>
+            <ID>15</ID>
+            <Image>410</Image>
+            <Name>iSnowglobe5</Name>
             <PlayerStartsWithItem>False</PlayerStartsWithItem>
             <Properties />
             <Interactions>
@@ -3044,7 +3134,7 @@ GOBY: And a nice outfit for the outside world.. and food for Mallory.
 CLOWN: You're bringing your dog?
 stop
 @3 
-   if (player.InventoryQuantity[iSnowglobes.ID] != 0 && player.InventoryQuantity[iSuit.ID]!=0&&player.InventoryQuantity[iDogFood.ID]!=0)
+   if (allSnowglobes == true && player.InventoryQuantity[iSuit.ID]!=0&&player.InventoryQuantity[iDogFood.ID]!=0)
    {
   dWordle.Start();
 option-off 3
@@ -3694,6 +3784,11 @@ return
         <GlobalVariable>
           <DefaultValue>true</DefaultValue>
           <Name>malloryFollow</Name>
+          <Type>bool</Type>
+        </GlobalVariable>
+        <GlobalVariable>
+          <DefaultValue>false</DefaultValue>
+          <Name>allSnowglobes</Name>
           <Type>bool</Type>
         </GlobalVariable>
       </Variables>
