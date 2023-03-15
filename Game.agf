@@ -3329,7 +3329,7 @@ Obies: Most people accidentally swallow gum, but the body we're in... they love 
 return
 @4
 Obies: Huh?
-Goby: Yes, so, I just learned the thing about gum staying in your stomach for seven years is a myth...
+Goby: It's all a lie! You can leave whenever you want!
   cGoby.ChangeRoom(15);
   cObies.ChangeRoom(15);
 return
