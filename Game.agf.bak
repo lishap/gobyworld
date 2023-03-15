@@ -3496,17 +3496,17 @@ return
   cOby1.SayBackground("But we are so grateful. The vessel keeps swallowing gum.");
   Wait(300);
   cGoby.SayBackground("Vessel?");
-  Wait(300);
+  Wait(150);
   cOby1.SayBackground("The divine body we inhabit.");
   Wait(300);
 return
 @3
   cOby1.SayBackground("Huh?");
-  Wait(300);
+  Wait(150);
   cGoby.SayBackground("It's all a lie! I was once like you, but then I solved this Wordle...");
   Wait(300);
   cOby1.SayBackground("Wordle?");
-  Wait(300);
+  Wait(150);
   cGoby.SayBackground("It's a long story, anyway, moral gum can leave whenever they want! Follow me.");
 option-off 3
   freedom = true;
