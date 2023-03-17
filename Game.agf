@@ -3457,20 +3457,33 @@ return
             <ID>6</ID>
             <Name>dObies</Name>
             <ShowTextParser>False</ShowTextParser>
-            <Script><![CDATA[// Dialog script file
+            <Script><![CDATA[// Dialog script file 
 @S  // Dialog startup entry point
+  cOby1.FaceCharacter(cGoby);
+  cOby2.FaceCharacter(cGoby);
+  cOby3.FaceCharacter(cGoby);
+  cOby4.FaceCharacter(cGoby);
   cOby1.SayBackground("Welcome, Beloved Goby.");
   cOby2.SayBackground("Welcome, Beloved Goby.");
   cOby3.SayBackground("Welcome, Beloved Goby.");
   cOby4.SayBackground("Welcome, Beloved Goby.");
 return
 @1
+  cOby1.FaceCharacter(cGoby);
+  cOby2.FaceCharacter(cGoby);
+  cOby3.FaceCharacter(cGoby);
+  cOby4.FaceCharacter(cGoby);
   cOby1.SayBackground("You are in a stomach. You must remain here.");
   Wait(300);
   cOby1.SayBackground("But after your seventh year you will leave through the excretion ceremony.");
   Wait(300);
+  
 return
 @2
+  cOby1.FaceCharacter(cGoby);
+  cOby2.FaceCharacter(cGoby);
+  cOby3.FaceCharacter(cGoby);
+  cOby4.FaceCharacter(cGoby);
   cOby1.SayBackground(" Most people accidentally swallow gum and one lone gum lives.");
   Wait(300);
   cOby1.SayBackground("But we are so grateful. The vessel keeps swallowing gum.");
@@ -3479,8 +3492,13 @@ return
   Wait(150);
   cOby1.SayBackground("The divine body we inhabit.");
   Wait(300);
+
 return
 @3
+  cOby1.FaceCharacter(cGoby);
+  cOby2.FaceCharacter(cGoby);
+  cOby3.FaceCharacter(cGoby);
+  cOby4.FaceCharacter(cGoby);
   cOby1.SayBackground("Huh?");
   Wait(150);
   cGoby.SayBackground("It's all a lie! I was once like you, but then I solved this Wordle...");
@@ -3488,9 +3506,9 @@ return
   cOby1.SayBackground("Wordle?");
   Wait(150);
   cGoby.SayBackground("It's a long story, anyway, moral gum can leave whenever they want! Follow me.");
-option-off 3
   freedom = true;
 stop
+
 
 ]]></Script>
             <DialogOptions>
