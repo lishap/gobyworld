@@ -77,7 +77,7 @@
       <SpriteAlphaStyle>Improved</SpriteAlphaStyle>
       <TTFHeightDefinedBy>NominalHeight</TTFHeightDefinedBy>
       <TTFMetricsFixup>SetAscenderToHeight</TTFMetricsFixup>
-      <TextWindowGUI>7</TextWindowGUI>
+      <TextWindowGUI>0</TextWindowGUI>
       <ThoughtGUI>0</ThoughtGUI>
       <TurnBeforeFacing>False</TurnBeforeFacing>
       <TurnBeforeWalking>True</TurnBeforeWalking>
@@ -825,37 +825,13 @@
             </NormalGUI>
             <Controls>
               <GUIButton>
-                <ClickAction>SetCursorMode</ClickAction>
-                <Clickable>True</Clickable>
-                <ClipImage>False</ClipImage>
-                <Enabled>True</Enabled>
-                <Font>0</Font>
-                <Height>27</Height>
-                <ID>0</ID>
-                <Image>2108</Image>
-                <Left>5</Left>
-                <Locked>False</Locked>
-                <MouseoverImage>2109</MouseoverImage>
-                <Name>btnIconInteract</Name>
-                <NewModeNumber>2</NewModeNumber>
-                <OnClick />
-                <PushedImage>2111</PushedImage>
-                <Text />
-                <TextAlignment>TopCenter</TextAlignment>
-                <TextColor>16</TextColor>
-                <Top>1</Top>
-                <Visible>True</Visible>
-                <Width>30</Width>
-                <ZOrder>0</ZOrder>
-              </GUIButton>
-              <GUIButton>
                 <ClickAction>RunScript</ClickAction>
                 <Clickable>True</Clickable>
                 <ClipImage>False</ClipImage>
                 <Enabled>True</Enabled>
                 <Font>0</Font>
                 <Height>27</Height>
-                <ID>1</ID>
+                <ID>0</ID>
                 <Image>2140</Image>
                 <Left>289</Left>
                 <Locked>False</Locked>
@@ -870,7 +846,7 @@
                 <Top>1</Top>
                 <Visible>True</Visible>
                 <Width>32</Width>
-                <ZOrder>1</ZOrder>
+                <ZOrder>0</ZOrder>
               </GUIButton>
               <GUIButton>
                 <ClickAction>RunScript</ClickAction>
@@ -879,7 +855,7 @@
                 <Enabled>True</Enabled>
                 <Font>0</Font>
                 <Height>27</Height>
-                <ID>2</ID>
+                <ID>1</ID>
                 <Image>2136</Image>
                 <Left>257</Left>
                 <Locked>False</Locked>
@@ -894,23 +870,23 @@
                 <Top>1</Top>
                 <Visible>True</Visible>
                 <Width>32</Width>
-                <ZOrder>2</ZOrder>
+                <ZOrder>1</ZOrder>
               </GUIButton>
               <GUIInventory>
                 <CharacterID>-1</CharacterID>
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Height>26</Height>
-                <ID>3</ID>
+                <ID>2</ID>
                 <ItemHeight>20</ItemHeight>
                 <ItemWidth>30</ItemWidth>
-                <Left>34</Left>
+                <Left>0</Left>
                 <Locked>False</Locked>
                 <Name>InventoryWindow1</Name>
                 <Top>1</Top>
                 <Visible>True</Visible>
-                <Width>221</Width>
-                <ZOrder>3</ZOrder>
+                <Width>255</Width>
+                <ZOrder>2</ZOrder>
               </GUIInventory>
             </Controls>
           </GUIMain>
