@@ -3248,37 +3248,6 @@
         <Dialogs>
           <Dialog>
             <ID>0</ID>
-            <Name>dClownCoin</Name>
-            <ShowTextParser>False</ShowTextParser>
-            <Script><![CDATA[// Dialog script file
-@S  // Dialog startup entry point
-CLOWN: I'm an arcade token that got swallowed ages ago. I've been stuck here in the stomach. 
-return
-@1
-CLOWN: Do YOU ever get bored? Why don't you get out of here?
-GOBY: I'm a piece of gum. I have to stay in the stomach for seven years. 
-CLOWN: That's a myth, didn't you know? You can just leave.
-GOBY: Srsly -_-
-@2
-goto-dialog dLeave
-]]></Script>
-            <DialogOptions>
-              <DialogOption>
-                <ID>1</ID>
-                <Say>True</Say>
-                <Show>True</Show>
-                <Text xml:space="preserve">Do you ever get bored?</Text>
-              </DialogOption>
-              <DialogOption>
-                <ID>2</ID>
-                <Say>True</Say>
-                <Show>True</Show>
-                <Text>Goodbye.</Text>
-              </DialogOption>
-            </DialogOptions>
-          </Dialog>
-          <Dialog>
-            <ID>1</ID>
             <Name>dLeave</Name>
             <ShowTextParser>False</ShowTextParser>
             <Script><![CDATA[// Dialog script file
@@ -3323,7 +3292,7 @@ stop
             </DialogOptions>
           </Dialog>
           <Dialog>
-            <ID>3</ID>
+            <ID>2</ID>
             <Name>dWordle</Name>
             <ShowTextParser>False</ShowTextParser>
             <Script><![CDATA[// Dialog script file
@@ -3346,7 +3315,7 @@ stop]]></Script>
             </DialogOptions>
           </Dialog>
           <Dialog>
-            <ID>2</ID>
+            <ID>1</ID>
             <Name>dLaLaine</Name>
             <ShowTextParser>False</ShowTextParser>
             <Script><![CDATA[// Dialog script file
@@ -3365,7 +3334,7 @@ return
             <DialogOptions />
           </Dialog>
           <Dialog>
-            <ID>4</ID>
+            <ID>3</ID>
             <Name>dMerchant</Name>
             <ShowTextParser>False</ShowTextParser>
             <Script><![CDATA[// Dialog script file
@@ -3388,7 +3357,7 @@ goto-dialog dTrade
             </DialogOptions>
           </Dialog>
           <Dialog>
-            <ID>5</ID>
+            <ID>4</ID>
             <Name>dTrade</Name>
             <ShowTextParser>False</ShowTextParser>
             <Script><![CDATA[// Dialog script file
@@ -3431,7 +3400,7 @@ return
             </DialogOptions>
           </Dialog>
           <Dialog>
-            <ID>6</ID>
+            <ID>5</ID>
             <Name>dObies</Name>
             <ShowTextParser>False</ShowTextParser>
             <Script><![CDATA[// Dialog script file 
