@@ -3252,24 +3252,14 @@
             <ShowTextParser>False</ShowTextParser>
             <Script><![CDATA[// Dialog script file
 @S  // Dialog startup entry point
+CLOWN: I'm an arcade token that got swallowed ages ago. I've been stuck here in the stomach. 
 return
 @1
-CLOWN: Q. T. Pie, I've been stuck down here for ages. I'm an arcade token. 
-option-off 1
-return
-@2
 CLOWN: Do YOU ever get bored? Why don't you get out of here?
-GOBY: Very funny. My life is molasses right now, slow and sweet. 
-CLOWN: No, seriously. Why don't you ever leave?
-GOBY: I have two years left. 
-CLOWN: That's a bit arbitrary. Two years until what?
-GOBY: Gum remains in the stomach for seven years. 
+GOBY: I'm a piece of gum. I have to stay in the stomach for seven years. 
 CLOWN: That's a myth, didn't you know? You can just leave.
 GOBY: Srsly -_-
-option-off 2
-return
-
-@3
+@2
 goto-dialog dLeave
 ]]></Script>
             <DialogOptions>
@@ -3277,19 +3267,13 @@ goto-dialog dLeave
                 <ID>1</ID>
                 <Say>True</Say>
                 <Show>True</Show>
-                <Text xml:space="preserve">Remind me your name again?</Text>
+                <Text xml:space="preserve">Do you ever get bored?</Text>
               </DialogOption>
               <DialogOption>
                 <ID>2</ID>
                 <Say>True</Say>
                 <Show>True</Show>
-                <Text xml:space="preserve">Do you ever get bored?</Text>
-              </DialogOption>
-              <DialogOption>
-                <ID>3</ID>
-                <Say>True</Say>
-                <Show>True</Show>
-                <Text xml:space="preserve">I'm leaving.</Text>
+                <Text>Goodbye.</Text>
               </DialogOption>
             </DialogOptions>
           </Dialog>
@@ -3301,15 +3285,11 @@ goto-dialog dLeave
 @S  // Dialog startup entry point
 return
 @1
-CLOWN: The only way is down. You can leave through the small intestine on my left. That will take you out the large intestine, and your freedom awaits you out the rectum and anus. 
+CLOWN: You can escape through the small intestine to my left. You should pack some itmes first.
 stop
 
 @2
-CLOWN: Probably. You'll need some swim gear. I have extra, but I'm not giving it away for free. 
-GOBY: I also want to bring my snowglobes!
-CLOWN: Okay, kid. 
-GOBY: And a nice outfit for the outside world... and food for Mallory. 
-CLOWN: You're bringing your dog?
+CLOWN: Your suit. Your snowglobe collection. Dog food. Before you go, please help me solve a Wordle puzzle.
 stop
 @3 
    if (allSnowglobes == true && player.InventoryQuantity[iSuit.ID]!=0&&player.InventoryQuantity[iDogFood.ID]!=0)
@@ -3317,7 +3297,7 @@ stop
   dWordle.Start();
 option-off 3
    } else {
-CLOWN: Pack your bags, then if you can help me solve this Wordle, I'll give you swim gear. I've been stuck for ages.
+CLOWN: Did you pack your suit, your snowglobe collection and dog food?
   }
 stop
 ]]></Script>
@@ -3326,13 +3306,13 @@ stop
                 <ID>1</ID>
                 <Say>True</Say>
                 <Show>True</Show>
-                <Text xml:space="preserve">Wait, how do I leave?</Text>
+                <Text xml:space="preserve">What am I supposed to do?</Text>
               </DialogOption>
               <DialogOption>
                 <ID>2</ID>
                 <Say>True</Say>
                 <Show>True</Show>
-                <Text xml:space="preserve">Should I bring stuff with me?</Text>
+                <Text xml:space="preserve">What should I pack?</Text>
               </DialogOption>
               <DialogOption>
                 <ID>3</ID>
@@ -3376,9 +3356,9 @@ LaLaine: Thank you for saving me Goby! I left a prize in your inventory. I didn'
      gIconbar.Visible = true;
      aAlert.Play(eAudioPriorityLow);
 Goby: How did you know I'm bi?
-LaLaine: Your tramp stamp. Honestly just guessed based on stereotypes. 
+LaLaine: Your tramp stamp and stereotypes.
 Goby: Thank you. How do I leave?
-LaLaine: Swim past the Fisherman's Wharf, Gumby!
+LaLaine: Swim left, past the fish hooks, Gumby!
 Goby: It's Goby. 
 return
 ]]></Script>
@@ -3390,19 +3370,10 @@ return
             <ShowTextParser>False</ShowTextParser>
             <Script><![CDATA[// Dialog script file
 @S  // Dialog startup entry point
-Merchant: I am Merchant Pitts. 
-Goby: I'm Goby. I'm a piece of gum trying to find his way home. 
-Merchant: I'm the pit in your stomach, or in your large intestine. 
-return
-@1
-Goby: Damn, if I knew you had water I wouldn't have smashed my snowglobes.
-Merchant: Too bad, Dumby.
-Goby: Hey!
-return
-@2
+Merchant: I'm Merchant Pits, named after a pit of anxiety in your tummy. 
 Merchant: I have water bottles, tulips, poppers and last but not least-- *ruby slippers*!
 return
-@3
+@1
 Merchant: Well, what can you trade me?
 goto-dialog dTrade
 
@@ -3412,19 +3383,7 @@ goto-dialog dTrade
                 <ID>1</ID>
                 <Say>True</Say>
                 <Show>True</Show>
-                <Text xml:space="preserve">You have water?</Text>
-              </DialogOption>
-              <DialogOption>
-                <ID>2</ID>
-                <Say>True</Say>
-                <Show>True</Show>
-                <Text xml:space="preserve">What are you selling?</Text>
-              </DialogOption>
-              <DialogOption>
-                <ID>3</ID>
-                <Say>True</Say>
-                <Show>True</Show>
-                <Text xml:space="preserve">I want the Ruby Slippers. </Text>
+                <Text xml:space="preserve">I want the ruby slippers. </Text>
               </DialogOption>
             </DialogOptions>
           </Dialog>
@@ -3434,15 +3393,15 @@ goto-dialog dTrade
             <ShowTextParser>False</ShowTextParser>
             <Script><![CDATA[// Dialog script file
 @1
-Merchant: If you think I would wear a structured shoulder, you are sorely mistaken. 
+Merchant: That's not my style. 
 return
 @2
     cMerchant.ChangeView(11);
     cGoby.LoseInventory(iBiPrideFlag);
     cGoby.AddInventory(iRubySlippers);
     aAlert.Play(eAudioPriorityLow);
-Merchant: Fine. I'm a bisexual ally.
-Merchant: You can click your heels together three times to go home. 
+    
+Merchant: Fine. I'm a bisexual ally. If you use the ruby slippers, they will take you back to your bedroom.
     //cMerchant.LockView();
     //cMerchant.Animate(1,3,eOnce,eBlock,eBackwards);
 stop
@@ -3523,7 +3482,7 @@ return
   Wait(300);
   cOby1.SayBackground("Wordle?");
   Wait(150);
-  cGoby.SayBackground("It's a long story, anyway, moral gum can leave whenever they want! Follow me.");
+  cGoby.SayBackground("It's a long story, anyway, moral is-- gum can leave whenever they want! Follow me.");
   freedom = true;
 stop
 
@@ -15398,6 +15357,21 @@ stop
               <OffsetY>0</OffsetY>
               <ImportHeight>16</ImportHeight>
               <ImportWidth>16</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>False</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportAlphaChannel>True</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="652" Width="94" Height="63" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+            <Source>
+              <FileName>Objects/Nightstand-open.png</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>63</ImportHeight>
+              <ImportWidth>94</ImportWidth>
               <ImportAsTile>False</ImportAsTile>
               <Frame>0</Frame>
               <RemapToGamePalette>False</RemapToGamePalette>
