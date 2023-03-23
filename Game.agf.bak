@@ -3297,22 +3297,13 @@ stop
             <ShowTextParser>False</ShowTextParser>
             <Script><![CDATA[// Dialog script file
 @S  // Dialog startup entry point
-return
-@1
   gWordle.Visible = true;
   Display("Using your keyboard, guess a five letter word. Press enter to submit.");
   Display("If the letter turns green, it is the correct letter AND correct place.");
   Display("If the letter turns yellow, it is the correct letter BUT wrong place.");
   Display("If the letter turns gray, it is the wrong letter AND wrong place.");
 stop]]></Script>
-            <DialogOptions>
-              <DialogOption>
-                <ID>1</ID>
-                <Say>True</Say>
-                <Show>True</Show>
-                <Text xml:space="preserve">I've gathered all my things. Let me try and solve your Wordle. </Text>
-              </DialogOption>
-            </DialogOptions>
+            <DialogOptions />
           </Dialog>
           <Dialog>
             <ID>1</ID>
