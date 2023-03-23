@@ -3254,7 +3254,7 @@
 @S  // Dialog startup entry point
 return
 @1
-CLOWN: You can escape through the small intestine to my left. You should pack some itmes first.
+CLOWN: You can escape through the small intestine to my left. You should pack some items first.
 stop
 
 @2
