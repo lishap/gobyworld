@@ -16570,6 +16570,576 @@ stop
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
+          <Sprite Slot="735" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>0</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="736" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>1</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="737" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>2</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="738" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>3</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="739" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>4</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="740" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>5</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="741" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>6</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="742" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>7</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="743" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>8</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="744" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>9</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="745" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>10</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="746" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>11</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="747" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>12</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="748" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>13</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="749" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>14</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="750" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>15</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="751" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>16</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="752" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>17</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="753" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>18</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="754" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>19</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="755" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>20</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="756" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>21</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="757" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>22</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="758" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>23</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="759" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>24</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="760" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>25</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="761" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>26</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="762" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>27</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="763" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>28</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="764" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>29</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="765" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>30</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="766" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>31</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="767" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>32</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="768" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>33</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="769" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>34</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="770" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>35</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="771" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>36</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
+          <Sprite Slot="772" Width="320" Height="200" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+            <Source>
+              <FileName>Backgrounds/Chewing.gif</FileName>
+              <OffsetX>0</OffsetX>
+              <OffsetY>0</OffsetY>
+              <ImportHeight>200</ImportHeight>
+              <ImportWidth>320</ImportWidth>
+              <ImportAsTile>False</ImportAsTile>
+              <Frame>37</Frame>
+              <RemapToGamePalette>True</RemapToGamePalette>
+              <RemapToRoomPalette>False</RemapToRoomPalette>
+              <ImportMethod>NoTransparency</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
+            </Source>
+          </Sprite>
         </Sprites>
       </SpriteFolder>
     </Sprites>
@@ -20272,231 +20842,252 @@ stop
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>0</ID>
-                    <Image>682</Image>
+                    <Image>736</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>1</ID>
-                    <Image>683</Image>
+                    <Image>737</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>2</ID>
-                    <Image>684</Image>
+                    <Image>738</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>3</ID>
-                    <Image>685</Image>
+                    <Image>739</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>4</ID>
-                    <Image>686</Image>
+                    <Image>740</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>5</ID>
-                    <Image>687</Image>
+                    <Image>741</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>6</ID>
-                    <Image>688</Image>
+                    <Image>742</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>7</ID>
-                    <Image>689</Image>
+                    <Image>743</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>8</ID>
-                    <Image>690</Image>
+                    <Image>744</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>9</ID>
-                    <Image>691</Image>
+                    <Image>745</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>10</ID>
-                    <Image>692</Image>
+                    <Image>746</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>11</ID>
-                    <Image>693</Image>
+                    <Image>747</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>12</ID>
-                    <Image>694</Image>
+                    <Image>748</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>13</ID>
-                    <Image>695</Image>
+                    <Image>749</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>14</ID>
-                    <Image>696</Image>
+                    <Image>750</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>15</ID>
-                    <Image>697</Image>
+                    <Image>751</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>16</ID>
-                    <Image>698</Image>
+                    <Image>752</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>17</ID>
-                    <Image>699</Image>
+                    <Image>753</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>18</ID>
-                    <Image>700</Image>
+                    <Image>754</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>19</ID>
-                    <Image>701</Image>
+                    <Image>755</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>20</ID>
-                    <Image>702</Image>
+                    <Image>756</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>21</ID>
-                    <Image>703</Image>
+                    <Image>757</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>22</ID>
-                    <Image>704</Image>
+                    <Image>758</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>23</ID>
-                    <Image>705</Image>
+                    <Image>759</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>24</ID>
-                    <Image>706</Image>
+                    <Image>760</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>25</ID>
-                    <Image>707</Image>
+                    <Image>761</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>26</ID>
-                    <Image>708</Image>
+                    <Image>762</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>27</ID>
-                    <Image>709</Image>
+                    <Image>763</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>28</ID>
-                    <Image>710</Image>
+                    <Image>764</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>29</ID>
-                    <Image>711</Image>
+                    <Image>765</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>30</ID>
-                    <Image>712</Image>
+                    <Image>766</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>31</ID>
-                    <Image>713</Image>
+                    <Image>767</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <Delay>0</Delay>
                     <Flipped>False</Flipped>
                     <ID>32</ID>
-                    <Image>714</Image>
+                    <Image>768</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>33</ID>
+                    <Image>769</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>34</ID>
+                    <Image>770</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>35</ID>
+                    <Image>771</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                 </Frames>
