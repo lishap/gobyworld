@@ -16,7 +16,7 @@
       <AutoMoveInWalkMode>True</AutoMoveInWalkMode>
       <BackwardsText>False</BackwardsText>
       <BinaryFilesInSourceControl>True</BinaryFilesInSourceControl>
-      <BuildTargets>Web</BuildTargets>
+      <BuildTargets xml:space="preserve">Windows, Web</BuildTargets>
       <ClipGUIControls>False</ClipGUIControls>
       <ColorDepth>TrueColor</ColorDepth>
       <CompressSpritesType>None</CompressSpritesType>
@@ -3411,10 +3411,7 @@ return
   cOby3.FaceCharacter(cGoby);
   cOby4.FaceCharacter(cGoby);
   cOby1.SayBackground("You are in a stomach. You must remain here.");
-  Wait(300);
   cOby1.SayBackground("But after your seventh year you will leave through the excretion ceremony.");
-  Wait(300);
-  
 return
 @2
   cOby1.FaceCharacter(cGoby);
@@ -3422,14 +3419,9 @@ return
   cOby3.FaceCharacter(cGoby);
   cOby4.FaceCharacter(cGoby);
   cOby1.SayBackground(" Most people accidentally swallow gum and one lone gum lives.");
-  Wait(300);
   cOby1.SayBackground("But we are so grateful. The vessel keeps swallowing gum.");
-  Wait(300);
   cGoby.SayBackground("Vessel?");
-  Wait(150);
   cOby1.SayBackground("The divine body we inhabit.");
-  Wait(300);
-
 return
 @3
   cOby1.FaceCharacter(cGoby);
@@ -3437,12 +3429,14 @@ return
   cOby3.FaceCharacter(cGoby);
   cOby4.FaceCharacter(cGoby);
   cOby1.SayBackground("Huh?");
-  Wait(150);
-  cGoby.SayBackground("It's all a lie! I was once like you, but then I solved this Wordle...");
-  Wait(300);
-  cOby1.SayBackground("Wordle?");
-  Wait(150);
-  cGoby.SayBackground("It's a long story, anyway, moral is-- gum can leave whenever they want! Follow me.");
+  cGoby.SayBackground("It's all a lie! Gum does not have to stay in the stomach for seven years!");
+  cGoby.Say("Follow me!");
+  cOby1.SayBackground("Our hero, Goby!");
+  cOby2.SayBackground("Our hero, Goby!");
+  cOby3.SayBackground("Our hero, Goby!");
+  cOby4.SayBackground("Our hero, Goby!");
+option-off 1
+option-off 2
   freedom = true;
 stop
 
