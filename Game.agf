@@ -824,60 +824,12 @@
               <ZOrder>1</ZOrder>
             </NormalGUI>
             <Controls>
-              <GUIButton>
-                <ClickAction>RunScript</ClickAction>
-                <Clickable>True</Clickable>
-                <ClipImage>False</ClipImage>
-                <Enabled>True</Enabled>
-                <Font>0</Font>
-                <Height>27</Height>
-                <ID>0</ID>
-                <Image>2140</Image>
-                <Left>289</Left>
-                <Locked>False</Locked>
-                <MouseoverImage>2141</MouseoverImage>
-                <Name>btnIconExit</Name>
-                <NewModeNumber>0</NewModeNumber>
-                <OnClick>btnIconExit_Click</OnClick>
-                <PushedImage>2142</PushedImage>
-                <Text />
-                <TextAlignment>TopCenter</TextAlignment>
-                <TextColor>16</TextColor>
-                <Top>1</Top>
-                <Visible>True</Visible>
-                <Width>32</Width>
-                <ZOrder>0</ZOrder>
-              </GUIButton>
-              <GUIButton>
-                <ClickAction>RunScript</ClickAction>
-                <Clickable>True</Clickable>
-                <ClipImage>False</ClipImage>
-                <Enabled>True</Enabled>
-                <Font>0</Font>
-                <Height>27</Height>
-                <ID>1</ID>
-                <Image>2136</Image>
-                <Left>257</Left>
-                <Locked>False</Locked>
-                <MouseoverImage>2137</MouseoverImage>
-                <Name>btnIconAbout</Name>
-                <NewModeNumber>0</NewModeNumber>
-                <OnClick>btnIconAbout_Click</OnClick>
-                <PushedImage>2138</PushedImage>
-                <Text />
-                <TextAlignment>TopCenter</TextAlignment>
-                <TextColor>16</TextColor>
-                <Top>1</Top>
-                <Visible>True</Visible>
-                <Width>32</Width>
-                <ZOrder>1</ZOrder>
-              </GUIButton>
               <GUIInventory>
                 <CharacterID>-1</CharacterID>
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
-                <Height>26</Height>
-                <ID>2</ID>
+                <Height>27</Height>
+                <ID>0</ID>
                 <ItemHeight>20</ItemHeight>
                 <ItemWidth>30</ItemWidth>
                 <Left>0</Left>
@@ -885,371 +837,9 @@
                 <Name>InventoryWindow1</Name>
                 <Top>1</Top>
                 <Visible>True</Visible>
-                <Width>255</Width>
-                <ZOrder>2</ZOrder>
-              </GUIInventory>
-            </Controls>
-          </GUIMain>
-          <GUIMain>
-            <NormalGUI>
-              <BackgroundColor>0</BackgroundColor>
-              <BackgroundImage>2167</BackgroundImage>
-              <BorderColor>0</BorderColor>
-              <Clickable>True</Clickable>
-              <Height>157</Height>
-              <ID>2</ID>
-              <Left>31</Left>
-              <Name>gPanel</Name>
-              <OnClick>gControl_OnClick</OnClick>
-              <PopupStyle>PopupModal</PopupStyle>
-              <PopupYPos>0</PopupYPos>
-              <Top>28</Top>
-              <Transparency>0</Transparency>
-              <Visible>False</Visible>
-              <Width>259</Width>
-              <ZOrder>0</ZOrder>
-            </NormalGUI>
-            <Controls>
-              <GUIButton>
-                <ClickAction>RunScript</ClickAction>
-                <Clickable>True</Clickable>
-                <ClipImage>False</ClipImage>
-                <Enabled>True</Enabled>
-                <Font>0</Font>
-                <Height>19</Height>
-                <ID>0</ID>
-                <Image>2160</Image>
-                <Left>8</Left>
-                <Locked>True</Locked>
-                <MouseoverImage>0</MouseoverImage>
-                <Name>btnResume</Name>
-                <NewModeNumber>0</NewModeNumber>
-                <OnClick>close_gui_onclick</OnClick>
-                <PushedImage>2161</PushedImage>
-                <Text>Resume</Text>
-                <TextAlignment>MiddleCenter</TextAlignment>
-                <TextColor>19248</TextColor>
-                <Top>110</Top>
-                <Visible>True</Visible>
-                <Width>71</Width>
+                <Width>320</Width>
                 <ZOrder>0</ZOrder>
-              </GUIButton>
-              <GUIButton>
-                <ClickAction>RunScript</ClickAction>
-                <Clickable>True</Clickable>
-                <ClipImage>False</ClipImage>
-                <Enabled>True</Enabled>
-                <Font>0</Font>
-                <Height>19</Height>
-                <ID>1</ID>
-                <Image>2160</Image>
-                <Left>8</Left>
-                <Locked>True</Locked>
-                <MouseoverImage>0</MouseoverImage>
-                <Name>btnSave</Name>
-                <NewModeNumber>0</NewModeNumber>
-                <OnClick>btnSave_OnClick</OnClick>
-                <PushedImage>2161</PushedImage>
-                <Text>Save</Text>
-                <TextAlignment>MiddleCenter</TextAlignment>
-                <TextColor>19248</TextColor>
-                <Top>5</Top>
-                <Visible>True</Visible>
-                <Width>71</Width>
-                <ZOrder>1</ZOrder>
-              </GUIButton>
-              <GUIButton>
-                <ClickAction>RunScript</ClickAction>
-                <Clickable>True</Clickable>
-                <ClipImage>False</ClipImage>
-                <Enabled>True</Enabled>
-                <Font>0</Font>
-                <Height>19</Height>
-                <ID>2</ID>
-                <Image>2160</Image>
-                <Left>8</Left>
-                <Locked>True</Locked>
-                <MouseoverImage>0</MouseoverImage>
-                <Name>btnAbout</Name>
-                <NewModeNumber>0</NewModeNumber>
-                <OnClick>btnAbout_OnClick</OnClick>
-                <PushedImage>2161</PushedImage>
-                <Text>About</Text>
-                <TextAlignment>MiddleCenter</TextAlignment>
-                <TextColor>19248</TextColor>
-                <Top>89</Top>
-                <Visible>True</Visible>
-                <Width>71</Width>
-                <ZOrder>2</ZOrder>
-              </GUIButton>
-              <GUIButton>
-                <ClickAction>RunScript</ClickAction>
-                <Clickable>True</Clickable>
-                <ClipImage>False</ClipImage>
-                <Enabled>True</Enabled>
-                <Font>0</Font>
-                <Height>19</Height>
-                <ID>3</ID>
-                <Image>2160</Image>
-                <Left>8</Left>
-                <Locked>True</Locked>
-                <MouseoverImage>0</MouseoverImage>
-                <Name>btnQuit</Name>
-                <NewModeNumber>0</NewModeNumber>
-                <OnClick>btnQuit_OnClick</OnClick>
-                <PushedImage>2161</PushedImage>
-                <Text>Quit</Text>
-                <TextAlignment>MiddleCenter</TextAlignment>
-                <TextColor>19248</TextColor>
-                <Top>68</Top>
-                <Visible>True</Visible>
-                <Width>71</Width>
-                <ZOrder>3</ZOrder>
-              </GUIButton>
-              <GUISlider>
-                <BackgroundImage>2165</BackgroundImage>
-                <Clickable>True</Clickable>
-                <Enabled>True</Enabled>
-                <HandleImage>2166</HandleImage>
-                <HandleOffset>-4</HandleOffset>
-                <Height>10</Height>
-                <ID>4</ID>
-                <Left>114</Left>
-                <Locked>False</Locked>
-                <MaxValue>100</MaxValue>
-                <MinValue>0</MinValue>
-                <Name>sldAudio</Name>
-                <OnChange>sldAudio_OnChange</OnChange>
-                <Top>27</Top>
-                <Value>100</Value>
-                <Visible>True</Visible>
-                <Width>100</Width>
-                <ZOrder>4</ZOrder>
-              </GUISlider>
-              <GUISlider>
-                <BackgroundImage>2165</BackgroundImage>
-                <Clickable>True</Clickable>
-                <Enabled>True</Enabled>
-                <HandleImage>2166</HandleImage>
-                <HandleOffset>-4</HandleOffset>
-                <Height>10</Height>
-                <ID>5</ID>
-                <Left>114</Left>
-                <Locked>False</Locked>
-                <MaxValue>255</MaxValue>
-                <MinValue>0</MinValue>
-                <Name>sldVoice</Name>
-                <OnChange>sldVoice_OnChange</OnChange>
-                <Top>56</Top>
-                <Value>255</Value>
-                <Visible>True</Visible>
-                <Width>100</Width>
-                <ZOrder>5</ZOrder>
-              </GUISlider>
-              <GUISlider>
-                <BackgroundImage>2165</BackgroundImage>
-                <Clickable>True</Clickable>
-                <Enabled>True</Enabled>
-                <HandleImage>2166</HandleImage>
-                <HandleOffset>-4</HandleOffset>
-                <Height>10</Height>
-                <ID>6</ID>
-                <Left>114</Left>
-                <Locked>False</Locked>
-                <MaxValue>200</MaxValue>
-                <MinValue>0</MinValue>
-                <Name>sldGamma</Name>
-                <OnChange>sldGamma_OnChange</OnChange>
-                <Top>111</Top>
-                <Value>100</Value>
-                <Visible>True</Visible>
-                <Width>100</Width>
-                <ZOrder>6</ZOrder>
-              </GUISlider>
-              <GUIButton>
-                <ClickAction>RunScript</ClickAction>
-                <Clickable>True</Clickable>
-                <ClipImage>False</ClipImage>
-                <Enabled>False</Enabled>
-                <Font>0</Font>
-                <Height>19</Height>
-                <ID>7</ID>
-                <Image>2160</Image>
-                <Left>8</Left>
-                <Locked>True</Locked>
-                <MouseoverImage>0</MouseoverImage>
-                <Name>btnDefault</Name>
-                <NewModeNumber>0</NewModeNumber>
-                <OnClick>btnDefault_OnClick</OnClick>
-                <PushedImage>2161</PushedImage>
-                <Text>Default</Text>
-                <TextAlignment>MiddleCenter</TextAlignment>
-                <TextColor>19248</TextColor>
-                <Top>131</Top>
-                <Visible>True</Visible>
-                <Width>71</Width>
-                <ZOrder>7</ZOrder>
-              </GUIButton>
-              <GUIButton>
-                <ClickAction>RunScript</ClickAction>
-                <Clickable>True</Clickable>
-                <ClipImage>False</ClipImage>
-                <Enabled>True</Enabled>
-                <Font>0</Font>
-                <Height>19</Height>
-                <ID>8</ID>
-                <Image>2160</Image>
-                <Left>8</Left>
-                <Locked>True</Locked>
-                <MouseoverImage>0</MouseoverImage>
-                <Name>btnLoad</Name>
-                <NewModeNumber>0</NewModeNumber>
-                <OnClick>btnLoad_OnClick</OnClick>
-                <PushedImage>2161</PushedImage>
-                <Text>Load</Text>
-                <TextAlignment>MiddleCenter</TextAlignment>
-                <TextColor>19248</TextColor>
-                <Top>26</Top>
-                <Visible>True</Visible>
-                <Width>71</Width>
-                <ZOrder>8</ZOrder>
-              </GUIButton>
-              <GUILabel>
-                <Clickable>True</Clickable>
-                <Enabled>True</Enabled>
-                <Font>0</Font>
-                <Height>10</Height>
-                <ID>9</ID>
-                <Left>115</Left>
-                <Locked>False</Locked>
-                <Name>lblVolume</Name>
-                <Text xml:space="preserve">Audio Volume</Text>
-                <TextAlignment>Center</TextAlignment>
-                <TextColor>19248</TextColor>
-                <Top>11</Top>
-                <Visible>True</Visible>
-                <Width>97</Width>
-                <ZOrder>9</ZOrder>
-              </GUILabel>
-              <GUILabel>
-                <Clickable>True</Clickable>
-                <Enabled>True</Enabled>
-                <Font>0</Font>
-                <Height>10</Height>
-                <ID>10</ID>
-                <Left>115</Left>
-                <Locked>False</Locked>
-                <Name>lblVoice</Name>
-                <Text xml:space="preserve">Voice Volume</Text>
-                <TextAlignment>Center</TextAlignment>
-                <TextColor>19248</TextColor>
-                <Top>41</Top>
-                <Visible>True</Visible>
-                <Width>101</Width>
-                <ZOrder>10</ZOrder>
-              </GUILabel>
-              <GUILabel>
-                <Clickable>True</Clickable>
-                <Enabled>True</Enabled>
-                <Font>0</Font>
-                <Height>13</Height>
-                <ID>11</ID>
-                <Left>115</Left>
-                <Locked>False</Locked>
-                <Name>lblGamma</Name>
-                <Text>Gamma</Text>
-                <TextAlignment>Center</TextAlignment>
-                <TextColor>19248</TextColor>
-                <Top>95</Top>
-                <Visible>True</Visible>
-                <Width>101</Width>
-                <ZOrder>11</ZOrder>
-              </GUILabel>
-              <GUIButton>
-                <ClickAction>RunScript</ClickAction>
-                <Clickable>True</Clickable>
-                <ClipImage>False</ClipImage>
-                <Enabled>True</Enabled>
-                <Font>0</Font>
-                <Height>19</Height>
-                <ID>12</ID>
-                <Image>2162</Image>
-                <Left>113</Left>
-                <Locked>True</Locked>
-                <MouseoverImage>0</MouseoverImage>
-                <Name>btnVoice</Name>
-                <NewModeNumber>0</NewModeNumber>
-                <OnClick>btnVoice_OnClick</OnClick>
-                <PushedImage>2163</PushedImage>
-                <Text xml:space="preserve">Text only</Text>
-                <TextAlignment>MiddleCenter</TextAlignment>
-                <TextColor>19248</TextColor>
-                <Top>72</Top>
-                <Visible>True</Visible>
-                <Width>105</Width>
-                <ZOrder>12</ZOrder>
-              </GUIButton>
-              <GUISlider>
-                <BackgroundImage>2165</BackgroundImage>
-                <Clickable>True</Clickable>
-                <Enabled>True</Enabled>
-                <HandleImage>2166</HandleImage>
-                <HandleOffset>-4</HandleOffset>
-                <Height>10</Height>
-                <ID>13</ID>
-                <Left>114</Left>
-                <Locked>False</Locked>
-                <MaxValue>100</MaxValue>
-                <MinValue>10</MinValue>
-                <Name>sldSpeed</Name>
-                <OnChange>sldSpeed_OnChange</OnChange>
-                <Top>140</Top>
-                <Value>40</Value>
-                <Visible>True</Visible>
-                <Width>100</Width>
-                <ZOrder>13</ZOrder>
-              </GUISlider>
-              <GUILabel>
-                <Clickable>True</Clickable>
-                <Enabled>True</Enabled>
-                <Font>0</Font>
-                <Height>10</Height>
-                <ID>14</ID>
-                <Left>115</Left>
-                <Locked>False</Locked>
-                <Name>lblSpeed</Name>
-                <Text>Speed</Text>
-                <TextAlignment>Center</TextAlignment>
-                <TextColor>19248</TextColor>
-                <Top>122</Top>
-                <Visible>True</Visible>
-                <Width>101</Width>
-                <ZOrder>14</ZOrder>
-              </GUILabel>
-              <GUIButton>
-                <ClickAction>RunScript</ClickAction>
-                <Clickable>True</Clickable>
-                <ClipImage>False</ClipImage>
-                <Enabled>True</Enabled>
-                <Font>0</Font>
-                <Height>19</Height>
-                <ID>15</ID>
-                <Image>2160</Image>
-                <Left>8</Left>
-                <Locked>True</Locked>
-                <MouseoverImage>0</MouseoverImage>
-                <Name>btnRestart</Name>
-                <NewModeNumber>0</NewModeNumber>
-                <OnClick>btnRestart_OnClick</OnClick>
-                <PushedImage>2161</PushedImage>
-                <Text>Restart</Text>
-                <TextAlignment>MiddleCenter</TextAlignment>
-                <TextColor>19248</TextColor>
-                <Top>47</Top>
-                <Visible>True</Visible>
-                <Width>71</Width>
-                <ZOrder>15</ZOrder>
-              </GUIButton>
+              </GUIInventory>
             </Controls>
           </GUIMain>
           <GUIMain>
@@ -1259,7 +849,7 @@
               <BorderColor>0</BorderColor>
               <Clickable>True</Clickable>
               <Height>65</Height>
-              <ID>3</ID>
+              <ID>2</ID>
               <Left>58</Left>
               <Name>gRestart</Name>
               <OnClick />
@@ -1343,7 +933,7 @@
             <TextWindowGUI>
               <BackgroundColor>19248</BackgroundColor>
               <BackgroundImage>0</BackgroundImage>
-              <ID>4</ID>
+              <ID>3</ID>
               <Name>gTextBorder</Name>
               <Padding>3</Padding>
               <TextColor>65523</TextColor>
@@ -1470,7 +1060,7 @@
               <BorderColor>0</BorderColor>
               <Clickable>True</Clickable>
               <Height>65</Height>
-              <ID>5</ID>
+              <ID>4</ID>
               <Left>58</Left>
               <Name>gExitGame</Name>
               <OnClick />
@@ -1557,7 +1147,7 @@
               <BorderColor>2</BorderColor>
               <Clickable>True</Clickable>
               <Height>200</Height>
-              <ID>6</ID>
+              <ID>5</ID>
               <Left>0</Left>
               <Name>gWordle</Name>
               <OnClick />
@@ -3410,18 +3000,18 @@ return
   cOby2.FaceCharacter(cGoby);
   cOby3.FaceCharacter(cGoby);
   cOby4.FaceCharacter(cGoby);
-  cOby1.SayBackground("You are in a stomach. You must remain here.");
-  cOby1.SayBackground("But after your seventh year you will leave through the excretion ceremony.");
+  cOby1.Say("You are in a stomach. You must remain here.");
+  cOby1.Say("But after your seventh year you will leave through the excretion ceremony.");
 return
 @2
   cOby1.FaceCharacter(cGoby);
   cOby2.FaceCharacter(cGoby);
   cOby3.FaceCharacter(cGoby);
   cOby4.FaceCharacter(cGoby);
-  cOby1.SayBackground(" Most people accidentally swallow gum and one lone gum lives.");
-  cOby1.SayBackground("But we are so grateful. The vessel keeps swallowing gum.");
-  cGoby.SayBackground("Vessel?");
-  cOby1.SayBackground("The divine body we inhabit.");
+  cOby1.Say(" Most people accidentally swallow gum and one lone gum lives.");
+  cOby1.Say("But we are so grateful. The vessel keeps swallowing gum.");
+  cGoby.Say("Vessel?");
+  cOby1.Say("The divine body we inhabit.");
 return
 @3
   cOby1.FaceCharacter(cGoby);
